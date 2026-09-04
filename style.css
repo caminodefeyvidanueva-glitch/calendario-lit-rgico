@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  color: #222;
+}
+
+.calendar-container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.calendar-header button {
+  border: none;
+  background: #444;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.weekdays,
+#calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+
+.weekdays div {
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 4px;
+  background: #eeeeee;
+}
+
+.day {
+  min-height: 130px;
+  border: 1px solid #dddddd;
+  padding: 6px;
+  background: white;
+  box-sizing: border-box;
+}
+
+.day-number {
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.event {
+  font-size: 12px;
+  padding: 5px;
+  margin: 4px 0;
+  border-radius: 5px;
+  line-height: 1.25;
+}
+
+.verde {
+  background: #5c9e45;
+  color: white;
+}
+
+.blanco {
+  background: #ffffff;
+  color: #222;
+  border: 1px solid #cccccc;
+}
+
+.rojo {
+  background: #c94141;
+  color: white;
+}
+
+.morado {
+  background: #73518e;
+  color: white;
+}
+
+.rosa {
+  background: #e9a7ba;
+  color: #222;
+}
+
+@media (max-width: 700px) {
+  .calendar-container {
+    padding: 4px;
+  }
+
+  h1 {
+    font-size: 22px;
+  }
+
+  .weekdays div {
+    font-size: 11px;
+    padding: 6px 2px;
+  }
+
+  .day {
+    min-height: 90px;
+    padding: 3px;
+  }
+
+  .event {
+    font-size: 9px;
+    padding: 3px;
+  }
+
+  .day-number {
+    font-size: 12px;
+  }
+}
