@@ -1,0 +1,4815 @@
+{
+  "2026-09-03": [
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 22 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 3, 18-23 · Sal 23 · Lc 5, 1-11",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Gregorio Magno, papa y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-09-04": [
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 22 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 4, 1-5 · Sal 36 · Lc 5, 33-39",
+      "color": "verde"
+    }
+  ],
+  "2026-09-05": [
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 22 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 4, 6b-15 · Sal 144 · Lc 6, 1-5",
+      "color": "verde"
+    }
+  ],
+  "2026-09-06": [
+    {
+      "titulo": "Lecturas — XXIII Domingo del Tiempo Ordinario — Ciclo A",
+      "descripcion": "Ez 33, 7-9 · Sal 94 · Rom 13, 8-10 · Mt 18, 15-20",
+      "color": "verde"
+    }
+  ],
+  "2026-09-07": [
+    {
+      "titulo": "Lecturas feriales — Lunes de la semana 23 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 5, 1-8 · Sal 5 · Lc 6, 6-11",
+      "color": "verde"
+    }
+  ],
+  "2026-09-08": [
+    {
+      "titulo": "Lecturas propias — Natividad de la Bienaventurada Virgen María",
+      "descripcion": "Miq 5, 1-4a (o Rom 8, 28-30) · Sal 12 · Mt 1, 1-16. 18-23",
+      "color": "blanco"
+    }
+  ],
+  "2026-09-09": [
+    {
+      "titulo": "San Pedro Claver, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 23 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 7, 25-31 · Sal 44 · Lc 6, 20-26",
+      "color": "verde"
+    }
+  ],
+  "2026-09-10": [
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 23 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 8, 1b-7. 11-13 · Sal 138 · Lc 6, 27-38",
+      "color": "verde"
+    }
+  ],
+  "2026-09-11": [
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 23 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 9, 16-19. 22b-27 · Sal 83 · Lc 6, 39-42",
+      "color": "verde"
+    }
+  ],
+  "2026-09-12": [
+    {
+      "titulo": "Santísimo Nombre de María",
+      "descripcion": "Memoria libre. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 23 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 10, 14-22 · Sal 115 · Lc 6, 43-49",
+      "color": "verde"
+    }
+  ],
+  "2026-09-13": [
+    {
+      "titulo": "San Juan Crisóstomo, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — XXIV Domingo del Tiempo Ordinario — Ciclo A",
+      "descripcion": "Eclo 27, 30–28, 7 · Sal 102 · Rom 14, 7-9 · Mt 18, 21-35",
+      "color": "verde"
+    }
+  ],
+  "2026-09-14": [
+    {
+      "titulo": "Lecturas propias — Exaltación de la Santa Cruz",
+      "descripcion": "Núm 21, 4b-9 · Sal 77 · Flp 2, 6-11 · Jn 3, 13-17",
+      "color": "verde"
+    }
+  ],
+  "2026-09-15": [
+    {
+      "titulo": "Lecturas feriales — Martes de la semana 24 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 12, 12-14. 27-31a · Sal 99 · Jn 19, 25-27 (o Lc 2, 33-35)",
+      "color": "verde"
+    },
+    {
+      "titulo": "Bienaventurada Virgen María de los Dolores",
+      "descripcion": "Memoria obligatoria. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    }
+  ],
+  "2026-09-16": [
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 24 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 12, 31–13, 13 · Sal 32 · Lc 7, 31-35",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santos Cornelio, papa, y Cipriano, obispo, mártires",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2026-09-17": [
+    {
+      "titulo": "San Roberto Belarmino, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Santa Hildegarda de Bingen, virgen y doctora de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 24 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 15, 1-11 · Sal 117 · Lc 7, 36-50",
+      "color": "verde"
+    }
+  ],
+  "2026-09-18": [
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 24 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 15, 12-22 · Sal 16 · Lc 8, 1-3",
+      "color": "verde"
+    }
+  ],
+  "2026-09-19": [
+    {
+      "titulo": "San Jenaro, obispo y mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 24 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 1 Cor 15, 35-37. 42-49 · Sal 55 · Lc 8, 4-15",
+      "color": "verde"
+    }
+  ],
+  "2026-09-20": [
+    {
+      "titulo": "Santos Andrés Kim Taegon, presbítero, Pablo Chong Hasang y compañeros, mártires",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — XXV Domingo del Tiempo Ordinario — Ciclo A",
+      "descripcion": "Is 55, 6-9 · Sal 144 · Flp 1, 20c-24. 27a · Mt 20, 1-16a",
+      "color": "verde"
+    }
+  ],
+  "2026-09-21": [
+    {
+      "titulo": "Lecturas propias — San Mateo, apóstol y evangelista",
+      "descripcion": "Ef 4, 1-7. 11-13 · Sal 18 · Mt 9, 9-13",
+      "color": "rojo"
+    }
+  ],
+  "2026-09-22": [
+    {
+      "titulo": "Lecturas feriales — Martes de la semana 25 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Prov 21, 1-6. 10-13 · Sal 118 · Lc 8, 19-21",
+      "color": "verde"
+    }
+  ],
+  "2026-09-23": [
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 25 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Prov 30, 5-9 · Sal 118 · Lc 9, 1-6",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Pío de Pietrelcina, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-09-24": [
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 25 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ecl 1, 2-11 · Sal 89 · Lc 9, 7-9",
+      "color": "verde"
+    }
+  ],
+  "2026-09-25": [
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 25 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ecl 3, 1-11 · Sal 143 · Lc 9, 18-22",
+      "color": "verde"
+    }
+  ],
+  "2026-09-26": [
+    {
+      "titulo": "Santos Cosme y Damián, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 25 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ecl 11, 9–12, 8 · Sal 89 · Lc 9, 43b-45",
+      "color": "verde"
+    }
+  ],
+  "2026-09-27": [
+    {
+      "titulo": "Lecturas — XXVI Domingo del Tiempo Ordinario — Ciclo A",
+      "descripcion": "Ez 18, 25-28 · Sal 24 · Flp 2, 1-11 · Mt 21, 28-32",
+      "color": "verde"
+    },
+    {
+      "titulo": "Jornada Mundial del Migrante y del Refugiado",
+      "descripcion": "Jornada pontificia. Fecha oficial para España en 2026.",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Vicente de Paúl, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-09-28": [
+    {
+      "titulo": "San Wenceslao, mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas feriales — Lunes de la semana 26 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Job 1, 6-22 · Sal 16 · Lc 9, 46-50",
+      "color": "verde"
+    }
+  ],
+  "2026-09-29": [
+    {
+      "titulo": "Lecturas propias — Santos Miguel, Gabriel y Rafael, arcángeles",
+      "descripcion": "Dan 7, 9-10. 13-14 (o Ap 12, 7-12a) · Sal 137 · Jn 1, 47-51",
+      "color": "verde"
+    }
+  ],
+  "2026-09-30": [
+    {
+      "titulo": "San Jerónimo, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 26 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Job 9, 1-12. 14-16 · Sal 87 · Lc 9, 57-62",
+      "color": "verde"
+    }
+  ],
+  "2026-10-01": [
+    {
+      "titulo": "Santa Teresa del Niño Jesús, virgen y doctora de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 26 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Job 19, 21-27 · Sal 26 · Lc 10, 1-12",
+      "color": "verde"
+    }
+  ],
+  "2026-10-02": [
+    {
+      "titulo": "Santos Ángeles Custodios",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 26 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Job 38, 1. 12-21; 40, 3-5 · Sal 138 · Lc 10, 13-16",
+      "color": "verde"
+    }
+  ],
+  "2026-10-03": [
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 26 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Job 42, 1-3. 5-6. 12-17 · Sal 118 · Lc 10, 17-24",
+      "color": "verde"
+    }
+  ],
+  "2026-10-04": [
+    {
+      "titulo": "San Francisco de Asís",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — XXVII Domingo del Tiempo Ordinario — Ciclo A",
+      "descripcion": "Is 5, 1-7 · Sal 79 · Flp 4, 6-9 · Mt 21, 33-43",
+      "color": "verde"
+    }
+  ],
+  "2026-10-05": [
+    {
+      "titulo": "Lecturas feriales — Lunes de la semana 27 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Gál 1, 6-12 · Sal 110 · Lc 10, 25-37",
+      "color": "verde"
+    }
+  ],
+  "2026-10-06": [
+    {
+      "titulo": "San Bruno, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Martes de la semana 27 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Gál 1, 13-24 · Sal 138 · Lc 10, 38-42",
+      "color": "verde"
+    }
+  ],
+  "2026-10-07": [
+    {
+      "titulo": "Recurso CFYVN — Santo Rosario",
+      "descripcion": "Recurso de Camino de Fe y Vida Nueva para la memoria de Nuestra Señora del Rosario.<br><br>Enlace: <a href=\"https://www.caminodefeyvidanueva.com/inicio/devociones/santo-rosario\">https://www.caminodefeyvidanueva.com/inicio/devociones/santo-rosario</a>",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 27 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Gál 2, 1-2. 7-14 · Sal 116 · Lc 11, 1-4",
+      "color": "verde"
+    },
+    {
+      "titulo": "Bienaventurada Virgen María del Rosario",
+      "descripcion": "Memoria obligatoria. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    }
+  ],
+  "2026-10-08": [
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 27 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Gál 3, 1-5 · Lc 1, 69-75 · Lc 11, 5-13",
+      "color": "verde"
+    }
+  ],
+  "2026-10-09": [
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 27 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Gál 3, 7-14 · Sal 110 · Lc 11, 15-26",
+      "color": "verde"
+    }
+  ],
+  "2026-10-10": [
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 27 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Gál 3, 22-29 · Sal 104 · Lc 11, 27-28",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santo Tomás de Villanueva, obispo",
+      "descripcion": "Memoria libre (España). Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-10-11": [
+    {
+      "titulo": "Lecturas — XXVIII Domingo del Tiempo Ordinario — Ciclo A",
+      "descripcion": "Is 25, 6-10a · Sal 22 · Flp 4, 12-14. 19-20 · Mt 22, 1-14",
+      "color": "verde"
+    }
+  ],
+  "2026-10-12": [
+    {
+      "titulo": "Lecturas feriales — Lunes de la semana 28 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Gál 4, 22-24. 26-27. 31–5, 1 · Sal 112 · Lc 11, 29-32",
+      "color": "verde"
+    }
+  ],
+  "2026-10-13": [
+    {
+      "titulo": "Lecturas feriales — Martes de la semana 28 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Gál 5, 1-6 · Sal 118 · Lc 11, 37-41",
+      "color": "verde"
+    }
+  ],
+  "2026-10-14": [
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 28 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Gál 5, 18-25 · Sal 1 · Lc 11, 42-46",
+      "color": "verde"
+    }
+  ],
+  "2026-10-15": [
+    {
+      "titulo": "Santa Teresa de Jesús, virgen y doctora de la Iglesia",
+      "descripcion": "Fiesta (España). Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 28 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 1, 1-10 · Sal 97 · Lc 11, 47-54",
+      "color": "verde"
+    }
+  ],
+  "2026-10-16": [
+    {
+      "titulo": "Santa Eduvigis, religiosa",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Santa Margarita María de Alacoque, virgen",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 28 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 1, 11-14 · Sal 32 · Lc 12, 1-7",
+      "color": "verde"
+    }
+  ],
+  "2026-10-17": [
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 28 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 1, 15-23 · Sal 8 · Lc 12, 8-12",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Ignacio de Antioquía, obispo y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2026-10-18": [
+    {
+      "titulo": "DOMUND — Jornada Mundial por la Evangelización de los Pueblos",
+      "descripcion": "Jornada pontificia de Obras Misionales Pontificias.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — XXIX Domingo del Tiempo Ordinario — Ciclo A",
+      "descripcion": "Is 45, 1. 4-6 · Sal 95 · 1 Tes 1, 1-5b · Mt 22, 15-21",
+      "color": "verde"
+    }
+  ],
+  "2026-10-19": [
+    {
+      "titulo": "Lecturas feriales — Lunes de la semana 29 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 2, 1-10 · Sal 99 · Lc 12, 13-21",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santos Juan de Brébeuf e Isaac Jogues, presbíteros, y compañeros, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2026-10-20": [
+    {
+      "titulo": "Lecturas feriales — Martes de la semana 29 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 2, 12-22 · Sal 84 · Lc 12, 35-38",
+      "color": "verde"
+    }
+  ],
+  "2026-10-21": [
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 29 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 3, 2-12 · Is 12 · Lc 12, 39-48",
+      "color": "verde"
+    }
+  ],
+  "2026-10-22": [
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 29 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 3, 14-21 · Sal 32 · Lc 12, 49-53",
+      "color": "verde"
+    }
+  ],
+  "2026-10-23": [
+    {
+      "titulo": "San Juan de Capistrano, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 29 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 4, 1-6 · Sal 23 · Lc 12, 54-59",
+      "color": "verde"
+    }
+  ],
+  "2026-10-24": [
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 29 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 4, 7-16 · Sal 121 · Lc 13, 1-9",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Antonio María Claret, obispo",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-10-25": [
+    {
+      "titulo": "Lecturas — XXX Domingo del Tiempo Ordinario — Ciclo A",
+      "descripcion": "Éx 22, 20-26 · Sal 17 · 1 Tes 1, 5c-10 · Mt 22, 34-40",
+      "color": "verde"
+    }
+  ],
+  "2026-10-26": [
+    {
+      "titulo": "Lecturas feriales — Lunes de la semana 30 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 4, 32–5, 8 · Sal 1 · Lc 13, 10-17",
+      "color": "verde"
+    }
+  ],
+  "2026-10-27": [
+    {
+      "titulo": "Lecturas feriales — Martes de la semana 30 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 5, 21-33 · Sal 127 · Lc 13, 18-21",
+      "color": "verde"
+    }
+  ],
+  "2026-10-28": [
+    {
+      "titulo": "Lecturas propias — Santos Simón y Judas, apóstoles",
+      "descripcion": "Ef 2, 19-22 · Sal 18 · Lc 6, 12-19",
+      "color": "rojo"
+    }
+  ],
+  "2026-10-29": [
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 30 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ef 6, 10-20 · Sal 143 · Lc 13, 31-35",
+      "color": "verde"
+    }
+  ],
+  "2026-10-30": [
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 30 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Flp 1, 1-11 · Sal 110 · Lc 14, 1-6",
+      "color": "verde"
+    }
+  ],
+  "2026-10-31": [
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 30 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Flp 1, 18b-26 · Sal 41 · Lc 14, 1. 7-11",
+      "color": "verde"
+    }
+  ],
+  "2026-11-01": [
+    {
+      "titulo": "Lecturas — Todos los Santos — Solemnidad",
+      "descripcion": "Ap 7, 2-4. 9-14 · Sal 23 · 1 Jn 3, 1-3 · Mt 5, 1-12a",
+      "color": "verde"
+    }
+  ],
+  "2026-11-02": [
+    {
+      "titulo": "Lecturas propias — Conmemoración de todos los fieles difuntos",
+      "descripcion": "Se toman dos lecturas de las misas de difuntos (Leccionario, vol. IV); no existe una única combinación obligatoria para este día.",
+      "color": "verde"
+    }
+  ],
+  "2026-11-03": [
+    {
+      "titulo": "Lecturas feriales — Martes de la semana 31 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Flp 2, 5-11 · Sal 21 · Lc 14, 15-24",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Martín de Porres, religioso",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-04": [
+    {
+      "titulo": "San Carlos Borromeo, obispo",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 31 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Flp 2, 12-18 · Sal 26 · Lc 14, 25-33",
+      "color": "verde"
+    }
+  ],
+  "2026-11-05": [
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 31 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Flp 3, 3-8a · Sal 104 · Lc 15, 1-10",
+      "color": "verde"
+    }
+  ],
+  "2026-11-06": [
+    {
+      "titulo": "Santos Pedro Poveda e Inocencio de la Inmaculada y compañeros, mártires",
+      "descripcion": "Memoria obligatoria (España). Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 31 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Flp 3, 17–4, 1 · Sal 121 · Lc 16, 1-8",
+      "color": "verde"
+    }
+  ],
+  "2026-11-07": [
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 31 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Flp 4, 10-19 · Sal 111 · Lc 16, 9-15",
+      "color": "verde"
+    }
+  ],
+  "2026-11-08": [
+    {
+      "titulo": "Lecturas — XXXII Domingo del Tiempo Ordinario — Ciclo A",
+      "descripcion": "Sab 6, 12-16 · Sal 62 · 1 Tes 4, 13-18 · Mt 25, 1-13",
+      "color": "verde"
+    }
+  ],
+  "2026-11-09": [
+    {
+      "titulo": "Lecturas propias — Dedicación de la Basílica de Letrán",
+      "descripcion": "Ez 47, 1-2. 8-9. 12 (o 1 Cor 3, 9c-11. 16-17) · Sal 45 · Jn 2, 13-22",
+      "color": "verde"
+    }
+  ],
+  "2026-11-10": [
+    {
+      "titulo": "Lecturas feriales — Martes de la semana 32 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Tit 2, 1-8. 11-14 · Sal 36 · Lc 17, 7-10",
+      "color": "verde"
+    },
+    {
+      "titulo": "San León Magno, papa y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-11": [
+    {
+      "titulo": "San Martín de Tours, obispo",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 32 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Tit 3, 1-7 · Sal 22 · Lc 17, 11-19",
+      "color": "verde"
+    }
+  ],
+  "2026-11-12": [
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 32 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Flm 7-20 · Sal 145 · Lc 17, 20-25",
+      "color": "verde"
+    }
+  ],
+  "2026-11-13": [
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 32 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 2 Jn 4-9 · Sal 118 · Lc 17, 26-37",
+      "color": "verde"
+    }
+  ],
+  "2026-11-14": [
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 32 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · 3 Jn 5-8 · Sal 111 · Lc 18, 1-8",
+      "color": "verde"
+    }
+  ],
+  "2026-11-15": [
+    {
+      "titulo": "Jornada Mundial de los Pobres",
+      "descripcion": "Jornada pontificia.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — XXXIII Domingo del Tiempo Ordinario — Ciclo A",
+      "descripcion": "Prov 31, 10-13. 19-20. 30-31 · Sal 127 · 1 Tes 5, 1-6 · Mt 25, 14-30",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Alberto Magno, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-16": [
+    {
+      "titulo": "Lecturas feriales — Lunes de la semana 33 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 1, 1-4; 2, 1-5a · Sal 1 · Lc 18, 35-43",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa Gertrudis, virgen",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Santa Margarita de Escocia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-17": [
+    {
+      "titulo": "Lecturas feriales — Martes de la semana 33 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 3, 1-6. 14-22 · Sal 14 · Lc 19, 1-10",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa Isabel de Hungría, religiosa",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-18": [
+    {
+      "titulo": "Recurso CFYVN — Novena de la Medalla Milagrosa",
+      "descripcion": "Acceso a los recursos editoriales de Camino de Fe y Vida Nueva al comenzar la novena.<br><br>Enlace: <a href=\"https://www.caminodefeyvidanueva.com/inicio/editorial\">https://www.caminodefeyvidanueva.com/inicio/editorial</a>",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 33 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 4, 1-11 · Sal 150 · Lc 19, 11-28",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 1",
+      "descripcion": "Día 1 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-19": [
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 33 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 5, 1-10 · Sal 149 · Lc 19, 41-44",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 2",
+      "descripcion": "Día 2 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-20": [
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 3",
+      "descripcion": "Día 3 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 33 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 10, 8-11 · Sal 118 · Lc 19, 45-48",
+      "color": "verde"
+    }
+  ],
+  "2026-11-21": [
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 33 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 11, 4-12 · Sal 143 · Lc 20, 27-40",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 4",
+      "descripcion": "Día 4 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Presentación de la bienaventurada Virgen María",
+      "descripcion": "Memoria obligatoria. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-22": [
+    {
+      "titulo": "Nuestro Señor Jesucristo, Rey del Universo",
+      "descripcion": "Solemnidad. Celebración de fecha variable.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 5",
+      "descripcion": "Día 5 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Nuestro Señor Jesucristo, Rey del Universo — Solemnidad — Ciclo A",
+      "descripcion": "Ez 34, 11-12. 15-17 · Sal 22 · 1 Cor 15, 20-26. 28 · Mt 25, 31-46",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa Cecilia, virgen y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2026-11-23": [
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 6",
+      "descripcion": "Día 6 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas feriales — Lunes de la semana 34 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 14, 1-3. 4b-5 · Sal 23 · Lc 21, 1-4",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Columbano, abad",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-24": [
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 7",
+      "descripcion": "Día 7 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Santos Andrés Dung-Lac, presbítero, y compañeros, mártires",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas feriales — Martes de la semana 34 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 14, 14-19 · Sal 95 · Lc 21, 5-11",
+      "color": "verde"
+    }
+  ],
+  "2026-11-25": [
+    {
+      "titulo": "Lecturas feriales — Miércoles de la semana 34 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 15, 1-4 · Sal 97 · Lc 21, 12-19",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 8",
+      "descripcion": "Día 8 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-26": [
+    {
+      "titulo": "Lecturas feriales — Jueves de la semana 34 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 18, 1-2. 21-23; 19, 1-3. 9a · Sal 99 · Lc 21, 20-28",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 9",
+      "descripcion": "Día 9 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    }
+  ],
+  "2026-11-27": [
+    {
+      "titulo": "Lecturas feriales — Viernes de la semana 34 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 20, 1-4. 11–21, 2 · Sal 83 · Lc 21, 29-33",
+      "color": "verde"
+    },
+    {
+      "titulo": "Recurso CFYVN — Medalla Milagrosa",
+      "descripcion": "Recurso sobre la Virgen de la Medalla Milagrosa. ·  · Enlace: https://sites.google.com/view/camino-de-fe-y-vida-nueva/inicio/apariciones-marianas",
+      "color": "verde"
+    }
+  ],
+  "2026-11-28": [
+    {
+      "titulo": "Lecturas feriales — Sábado de la semana 34 del Tiempo Ordinario",
+      "descripcion": "Ferial II — Año par · Ap 22, 1-7 · Sal 94 · Lc 21, 34-36",
+      "color": "verde"
+    }
+  ],
+  "2026-11-29": [
+    {
+      "titulo": "I Domingo de Adviento",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "morado"
+    },
+    {
+      "titulo": "Inicio del Tiempo de Adviento",
+      "descripcion": "Comienza el Tiempo de Adviento. Color litúrgico: morado.",
+      "color": "morado"
+    },
+    {
+      "titulo": "Lecturas — I Domingo de Adviento — Ciclo B",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 63, 16b-17.19b; 64, 2b-7 · Sal 79 · 1 Cor 1, 3-9 · Mc 13, 33-37",
+      "color": "morado"
+    }
+  ],
+  "2026-11-30": [
+    {
+      "titulo": "Lecturas — Lunes de la I semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 2, 1-5 · Sal 121 · Mt 8, 5-11",
+      "color": "morado"
+    }
+  ],
+  "2026-12-01": [
+    {
+      "titulo": "Lecturas — Martes de la I semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 11, 1-10 · Sal 71 · Lc 10, 21-24",
+      "color": "morado"
+    }
+  ],
+  "2026-12-02": [
+    {
+      "titulo": "Lecturas — Miércoles de la I semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 25, 6-10a · Sal 22 · Mt 15, 29-37",
+      "color": "morado"
+    }
+  ],
+  "2026-12-03": [
+    {
+      "titulo": "Lecturas — Jueves de la I semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 26, 1-6 · Sal 117 · Mt 7, 21.24-27",
+      "color": "morado"
+    },
+    {
+      "titulo": "San Francisco Javier, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-04": [
+    {
+      "titulo": "Lecturas — Viernes de la I semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 29, 17-24 · Sal 26 · Mt 9, 27-31",
+      "color": "morado"
+    },
+    {
+      "titulo": "San Juan Damasceno, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-05": [
+    {
+      "titulo": "Lecturas — Sábado de la I semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 30, 19-21.23-26 · Sal 146 · Mt 9, 35–10, 1.5a.6-8",
+      "color": "morado"
+    }
+  ],
+  "2026-12-06": [
+    {
+      "titulo": "II Domingo de Adviento",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "morado"
+    },
+    {
+      "titulo": "Lecturas — II Domingo de Adviento — Ciclo B",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 40, 1-5.9-11 · Sal 84 · 2 Pe 3, 8-14 · Mc 1, 1-8",
+      "color": "morado"
+    },
+    {
+      "titulo": "San Nicolás, obispo",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-07": [
+    {
+      "titulo": "San Ambrosio, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Lunes de la II semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 35, 1-10 · Sal 84 · Lc 5, 17-26",
+      "color": "morado"
+    }
+  ],
+  "2026-12-08": [
+    {
+      "titulo": "Lecturas — Inmaculada Concepción de la Bienaventurada Virgen María",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Gn 3, 9-15.20 · Sal 97 · Ef 1, 3-6.11-12 · Lc 1, 26-38",
+      "color": "morado"
+    }
+  ],
+  "2026-12-09": [
+    {
+      "titulo": "Lecturas — Miércoles de la II semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 40, 25-31 · Sal 102 · Mt 11, 28-30",
+      "color": "morado"
+    }
+  ],
+  "2026-12-10": [
+    {
+      "titulo": "Lecturas — Jueves de la II semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 41, 13-20 · Sal 144 · Mt 11, 11-15",
+      "color": "morado"
+    }
+  ],
+  "2026-12-11": [
+    {
+      "titulo": "Lecturas — Viernes de la II semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 48, 17-19 · Sal 1 · Mt 11, 16-19",
+      "color": "morado"
+    },
+    {
+      "titulo": "San Dámaso I, papa",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-12": [
+    {
+      "titulo": "Lecturas — Sábado de la II semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Eclo 48, 1-4.9-11 · Sal 79 · Mt 17, 10-13",
+      "color": "morado"
+    },
+    {
+      "titulo": "Bienaventurada Virgen María de Guadalupe",
+      "descripcion": "Memoria libre. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-13": [
+    {
+      "titulo": "Lecturas — III Domingo de Adviento (Gaudete) — Ciclo B",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 61, 1-2a.10-11 · Lc 1, 46-54 · 1 Tes 5, 16-24 · Jn 1, 6-8.19-28",
+      "color": "rosa"
+    },
+    {
+      "titulo": "III Domingo de Adviento (Gaudete)",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "rosa"
+    },
+    {
+      "titulo": "Santa Lucía, virgen y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2026-12-14": [
+    {
+      "titulo": "Lecturas — Lunes de la III semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Nm 24, 2-7.15-17a · Sal 24 · Mt 21, 23-27",
+      "color": "morado"
+    },
+    {
+      "titulo": "San Juan de la Cruz, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-15": [
+    {
+      "titulo": "Lecturas — Martes de la III semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Sof 3, 1-2.9-13 · Sal 33 · Mt 21, 28-32",
+      "color": "morado"
+    }
+  ],
+  "2026-12-16": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 1",
+      "descripcion": "Día 1 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — Miércoles de la III semana de Adviento",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Is 45, 6b-8.18.21b-25 · Sal 84 · Lc 7, 19-23",
+      "color": "morado"
+    }
+  ],
+  "2026-12-17": [
+    {
+      "titulo": "Lecturas — 17 de diciembre",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Gn 49, 1-2.8-10 · Sal 71 · Mt 1, 1-17",
+      "color": "morado"
+    },
+    {
+      "titulo": "Novena del Niño Jesús — Día 2",
+      "descripcion": "Día 2 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2026-12-18": [
+    {
+      "titulo": "Lecturas — 18 de diciembre",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Jer 23, 5-8 · Sal 71 · Mt 1, 18-24",
+      "color": "morado"
+    },
+    {
+      "titulo": "Novena del Niño Jesús — Día 3",
+      "descripcion": "Día 3 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2026-12-19": [
+    {
+      "titulo": "Lecturas — 19 de diciembre",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Jue 13, 2-7.24-25a · Sal 70 · Lc 1, 5-25",
+      "color": "morado"
+    },
+    {
+      "titulo": "Novena del Niño Jesús — Día 4",
+      "descripcion": "Día 4 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2026-12-20": [
+    {
+      "titulo": "IV Domingo de Adviento",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "morado"
+    },
+    {
+      "titulo": "Novena del Niño Jesús — Día 5",
+      "descripcion": "Día 5 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — IV Domingo de Adviento — Ciclo B",
+      "descripcion": "Tiempo de Adviento — Ciclo B · 2 Sam 7, 1-5.8b-12.14a.16 · Sal 88 · Rom 16, 25-27 · Lc 1, 26-38",
+      "color": "morado"
+    }
+  ],
+  "2026-12-21": [
+    {
+      "titulo": "Lecturas — 21 de diciembre",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Cant 2, 8-14 (o Sof 3, 14-18a) · Sal 32 · Lc 1, 39-45",
+      "color": "morado"
+    },
+    {
+      "titulo": "Novena del Niño Jesús — Día 6",
+      "descripcion": "Día 6 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Pedro Canisio, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-22": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 7",
+      "descripcion": "Día 7 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — 22 de diciembre",
+      "descripcion": "Tiempo de Adviento — Ciclo B · 1 Sam 1, 24-28 · 1 Sam 2 · Lc 1, 46-56",
+      "color": "morado"
+    }
+  ],
+  "2026-12-23": [
+    {
+      "titulo": "San Juan de Kety, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — 23 de diciembre",
+      "descripcion": "Tiempo de Adviento — Ciclo B · Mal 3, 1-4.23-24 · Sal 24 · Lc 1, 57-66",
+      "color": "morado"
+    },
+    {
+      "titulo": "Novena del Niño Jesús — Día 8",
+      "descripcion": "Día 8 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2026-12-24": [
+    {
+      "titulo": "Lecturas — 24 de diciembre — Misa de la mañana",
+      "descripcion": "Tiempo de Adviento — Ciclo B · 2 Sam 7, 1-5.8b-12.14a.16 · Sal 88 · Lc 1, 67-79",
+      "color": "morado"
+    },
+    {
+      "titulo": "Novena del Niño Jesús — Día 9",
+      "descripcion": "Día 9 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2026-12-25": [
+    {
+      "titulo": "Lecturas — Natividad del Señor — Misa del día",
+      "descripcion": "Tiempo de Navidad — Ciclo B · Is 52, 7-10 · Sal 97 · Heb 1, 1-6 · Jn 1, 1-18",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Inicio del Tiempo de Navidad",
+      "descripcion": "Comienza el Tiempo de Navidad. Color litúrgico habitual: blanco.",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-26": [
+    {
+      "titulo": "San Esteban, protomártir",
+      "descripcion": "Fiesta. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — San Esteban, protomártir",
+      "descripcion": "Tiempo de Navidad — Ciclo B · Hch 6, 8-10; 7, 54-59 · Sal 30 · Mt 10, 17-22",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-27": [
+    {
+      "titulo": "Lecturas — Sagrada Familia de Jesús, María y José — Ciclo B",
+      "descripcion": "Tiempo de Navidad — Ciclo B · Gn 15, 1-6; 21, 1-3 · Sal 104 · Heb 11, 8.11-12.17-19 · Lc 2, 22-40",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Jornada de la Sagrada Familia",
+      "descripcion": "Jornada pontificia y de la Conferencia Episcopal Española.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Sagrada Familia de Jesús, María y José",
+      "descripcion": "Fiesta. Celebración de fecha variable.",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-28": [
+    {
+      "titulo": "Lecturas — Santos Inocentes, mártires",
+      "descripcion": "Tiempo de Navidad — Ciclo B · 1 Jn 1, 5–2, 2 · Sal 123 · Mt 2, 13-18",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Santos Inocentes, mártires",
+      "descripcion": "Fiesta. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2026-12-29": [
+    {
+      "titulo": "Santo Tomás Becket, obispo y mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Día V de la Octava de Navidad",
+      "descripcion": "Tiempo de Navidad — Ciclo B · 1 Jn 2, 3-11 · Sal 95 · Lc 2, 22-35",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-30": [
+    {
+      "titulo": "Lecturas — Día VI de la Octava de Navidad",
+      "descripcion": "Tiempo de Navidad — Ciclo B · 1 Jn 2, 12-17 · Sal 95 · Lc 2, 36-40",
+      "color": "blanco"
+    }
+  ],
+  "2026-12-31": [
+    {
+      "titulo": "Lecturas — Día VII de la Octava de Navidad",
+      "descripcion": "Tiempo de Navidad — Ciclo B · 1 Jn 2, 18-21 · Sal 95 · Jn 1, 1-18",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-01": [
+    {
+      "titulo": "Lecturas — Santa María, Madre de Dios",
+      "descripcion": "Tiempo de Navidad — Ciclo B · Nm 6, 22-27 · Sal 66 · Gál 4, 4-7 · Lc 2, 16-21",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Jornada Mundial de la Paz",
+      "descripcion": "Jornada mundial y pontificia.",
+      "color": "verde"
+    }
+  ],
+  "2027-01-02": [
+    {
+      "titulo": "Lecturas — 2 de enero",
+      "descripcion": "Tiempo de Navidad — Ciclo B · 1 Jn 2, 22-28 · Sal 97 · Jn 1, 19-28",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Santos Basilio Magno y Gregorio Nacianceno, obispos y doctores de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-03": [
+    {
+      "titulo": "Lecturas — II Domingo después de Navidad",
+      "descripcion": "Tiempo de Navidad — Ciclo B · Eclo 24, 1-2.8-12 · Sal 147 · Ef 1, 3-6.15-18 · Jn 1, 1-18",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-04": [
+    {
+      "titulo": "Lecturas — 4 de enero",
+      "descripcion": "Tiempo de Navidad — Ciclo B · 1 Jn 3, 7-10 · Sal 97 · Jn 1, 35-42",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-05": [
+    {
+      "titulo": "Lecturas — 5 de enero",
+      "descripcion": "Tiempo de Navidad — Ciclo B · 1 Jn 3, 11-21 · Sal 99 · Jn 1, 43-51",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-06": [
+    {
+      "titulo": "Lecturas — Epifanía del Señor",
+      "descripcion": "Tiempo de Navidad — Ciclo B · Is 60, 1-6 · Sal 71 · Ef 3, 2-3a.5-6 · Mt 2, 1-12",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-07": [
+    {
+      "titulo": "Lecturas — 7 de enero",
+      "descripcion": "Tiempo de Navidad — Ciclo B · 1 Jn 3, 22–4, 6 · Sal 2 · Mt 4, 12-17.23-25",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Raimundo de Peñafort, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-08": [
+    {
+      "titulo": "Lecturas — 8 de enero",
+      "descripcion": "Tiempo de Navidad — Ciclo B · 1 Jn 4, 7-10 · Sal 71 · Mc 6, 34-44",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-09": [
+    {
+      "titulo": "Lecturas — 9 de enero",
+      "descripcion": "Tiempo de Navidad — Ciclo B · 1 Jn 4, 11-18 · Sal 71 · Mc 6, 45-52",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-10": [
+    {
+      "titulo": "Lecturas — Bautismo del Señor — Ciclo B",
+      "descripcion": "Tiempo de Navidad — Ciclo B · Is 42, 1-4.6-7 · Sal 28 · Hch 10, 34-38 · Mc 1, 7-11",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Bautismo del Señor",
+      "descripcion": "Fiesta. Celebración de fecha variable.",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-11": [
+    {
+      "titulo": "Inicio del Tiempo Ordinario — primera parte",
+      "descripcion": "Comienza la primera parte del Tiempo Ordinario, después del Bautismo del Señor. Color litúrgico habitual: verde.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — Lunes de la semana 1 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 1, 1-6 · Sal 96 · Mc 1, 14-20",
+      "color": "verde"
+    }
+  ],
+  "2027-01-12": [
+    {
+      "titulo": "Lecturas — Martes de la semana 1 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 2, 5-12 · Sal 8 · Mc 1, 21-28",
+      "color": "verde"
+    }
+  ],
+  "2027-01-13": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 1 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 2, 14-18 · Sal 104 · Mc 1, 29-39",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Hilario, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-14": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 1 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 3, 7-14 · Sal 94 · Mc 1, 40-45",
+      "color": "verde"
+    }
+  ],
+  "2027-01-15": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 1 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 4, 1-5.11 · Sal 77 · Mc 2, 1-12",
+      "color": "verde"
+    }
+  ],
+  "2027-01-16": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 1 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 4, 12-16 · Sal 18 · Mc 2, 13-17",
+      "color": "verde"
+    }
+  ],
+  "2027-01-17": [
+    {
+      "titulo": "Domingo de la Palabra de Dios",
+      "descripcion": "Tercer domingo del Tiempo Ordinario / tercer domingo de enero según calendario ordinario.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — II Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "1 Sam 3, 3b-10.19 · Sal 39 · 1 Cor 6, 13c-15a.17-20 · Jn 1, 35-42",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Antonio, abad",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-18": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 2 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 5, 1-10 · Sal 109 · Mc 2, 18-22",
+      "color": "verde"
+    }
+  ],
+  "2027-01-19": [
+    {
+      "titulo": "Lecturas — Martes de la semana 2 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 6, 10-20 · Sal 110 · Mc 2, 23-28",
+      "color": "verde"
+    }
+  ],
+  "2027-01-20": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 2 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 7, 1-3.15-17 · Sal 109 · Mc 3, 1-6",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Sebastián, mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "San Fabián, papa y mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-01-21": [
+    {
+      "titulo": "Santa Inés, virgen y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 2 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 7, 25–8, 6 · Sal 39 · Mc 3, 7-12",
+      "color": "verde"
+    }
+  ],
+  "2027-01-22": [
+    {
+      "titulo": "San Vicente, diácono y mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Viernes de la semana 2 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 8, 6-13 · Sal 84 · Mc 3, 13-19",
+      "color": "verde"
+    }
+  ],
+  "2027-01-23": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 2 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 9, 2-3.11-14 · Sal 46 · Mc 3, 20-21",
+      "color": "verde"
+    }
+  ],
+  "2027-01-24": [
+    {
+      "titulo": "San Francisco de Sales, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — III Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Jon 3, 1-5.10 · Sal 24 · 1 Cor 7, 29-31 · Mc 1, 14-20",
+      "color": "verde"
+    }
+  ],
+  "2027-01-25": [
+    {
+      "titulo": "Lecturas — Conversión de san Pablo, apóstol",
+      "descripcion": "Hch 22, 3-16 (o Hch 9, 1-22) · Sal 116 · Mc 16, 15-18",
+      "color": "rojo"
+    }
+  ],
+  "2027-01-26": [
+    {
+      "titulo": "Santos Timoteo y Tito, obispos",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Martes de la semana 3 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 10, 1-10 · Sal 39 · Mc 3, 31-35",
+      "color": "verde"
+    }
+  ],
+  "2027-01-27": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 3 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 10, 11-18 · Sal 109 · Mc 4, 1-20",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa Ángela de Mérici, virgen",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-01-28": [
+    {
+      "titulo": "Santo Tomás de Aquino, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 3 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 10, 19-25 · Sal 23 · Mc 4, 21-25",
+      "color": "verde"
+    }
+  ],
+  "2027-01-29": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 3 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 10, 32-39 · Sal 36 · Mc 4, 26-34",
+      "color": "verde"
+    }
+  ],
+  "2027-01-30": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 3 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 11, 1-2.8-19 · Lc 1 · Mc 4, 35-41",
+      "color": "verde"
+    }
+  ],
+  "2027-01-31": [
+    {
+      "titulo": "Lecturas — IV Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Dt 18, 15-20 · Sal 94 · 1 Cor 7, 32-35 · Mc 1, 21-28",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Juan Bosco, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-02-01": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 4 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 11, 32-40 · Sal 30 · Mc 5, 1-20",
+      "color": "verde"
+    }
+  ],
+  "2027-02-02": [
+    {
+      "titulo": "Novena a Nuestra Señora de Lourdes — Día 1",
+      "descripcion": "Día 1 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Recurso CFYVN — Novena a Nuestra Señora de Lourdes",
+      "descripcion": "Acceso a la sección de devociones al comenzar la novena de Lourdes.<br><br>Enlace:<a href=\"https://www.caminodefeyvidanueva.com/inicio/devociones/novena-a-la-virgen-de-lourdes\">https://www.caminodefeyvidanueva.com/inicio/devociones/novena-a-la-virgen-de-lourdes</a>",
+      "color": "verde"
+    },
+    {
+      "titulo": "Jornada Mundial de la Vida Consagrada",
+      "descripcion": "Coincide con la fiesta de la Presentación del Señor.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Presentación del Señor",
+      "descripcion": "Mal 3, 1-4 (o Heb 2, 14-18) · Sal 23 · Lc 2, 22-40",
+      "color": "verde"
+    }
+  ],
+  "2027-02-03": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 4 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 12, 4-7.11-15 · Sal 102 · Mc 6, 1-6",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a Nuestra Señora de Lourdes — Día 2",
+      "descripcion": "Día 2 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Blas, obispo",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-02-04": [
+    {
+      "titulo": "Novena a Nuestra Señora de Lourdes — Día 3",
+      "descripcion": "Día 3 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 4 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 12, 18-19.21-24 · Sal 47 · Mc 6, 7-13",
+      "color": "verde"
+    }
+  ],
+  "2027-02-05": [
+    {
+      "titulo": "Santa Águeda, virgen y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Novena a Nuestra Señora de Lourdes — Día 4",
+      "descripcion": "Día 4 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — Viernes de la semana 4 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 13, 1-8 · Sal 26 · Mc 6, 14-29",
+      "color": "verde"
+    }
+  ],
+  "2027-02-06": [
+    {
+      "titulo": "Santos Pablo Miki y compañeros, mártires",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Sábado de la semana 4 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Heb 13, 15-17.20-21 · Sal 22 · Mc 6, 30-34",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a Nuestra Señora de Lourdes — Día 5",
+      "descripcion": "Día 5 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2027-02-07": [
+    {
+      "titulo": "Novena a Nuestra Señora de Lourdes — Día 6",
+      "descripcion": "Día 6 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — V Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Job 7, 1-4.6-7 · Sal 146 · 1 Cor 9, 16-19.22-23 · Mc 1, 29-39",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Juan de Triora, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-02-08": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 5 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 1, 1-19 · Sal 103 · Mc 6, 53-56",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a Nuestra Señora de Lourdes — Día 7",
+      "descripcion": "Día 7 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2027-02-09": [
+    {
+      "titulo": "Lecturas — Martes de la semana 5 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 1, 20–2, 4a · Sal 8 · Mc 7, 1-13",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a Nuestra Señora de Lourdes — Día 8",
+      "descripcion": "Día 8 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2027-02-10": [
+    {
+      "titulo": "Lecturas — Miércoles de Ceniza",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Jl 2, 12-18 · Sal 50 · 2 Cor 5, 20–6, 2 · Mt 6, 1-6.16-18",
+      "color": "morado"
+    },
+    {
+      "titulo": "Novena a Nuestra Señora de Lourdes — Día 9",
+      "descripcion": "Día 9 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Inicio del Tiempo de Cuaresma",
+      "descripcion": "Miércoles de Ceniza. Comienza el Tiempo de Cuaresma. Color litúrgico: morado.",
+      "color": "morado"
+    },
+    {
+      "titulo": "Santa Escolástica, virgen",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Miércoles de Ceniza",
+      "descripcion": "Día litúrgico. Celebración de fecha variable.",
+      "color": "morado"
+    }
+  ],
+  "2027-02-11": [
+    {
+      "titulo": "Jornada Mundial del Enfermo",
+      "descripcion": "Coincide con la memoria de Nuestra Señora de Lourdes.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Recurso CFYVN — Nuestra Señora de Lourdes",
+      "descripcion": "Recurso de Camino de Fe y Vida Nueva sobre Nuestra Señora de Lourdes.<br><br>Enlace: <a href=\"https://www.caminodefeyvidanueva.com/inicio/devociones/novena-a-la-virgen-de-lourdes\">https://www.caminodefeyvidanueva.com/inicio/devociones/novena-a-la-virgen-de-lourdes</a>",
+      "color": "verde"
+    },
+    {
+      "titulo": "Bienaventurada Virgen María de Lourdes",
+      "descripcion": "Memoria. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jueves después de Ceniza",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Dt 30, 15-20 · Sal 1 · Lc 9, 22-25",
+      "color": "morado"
+    }
+  ],
+  "2027-02-12": [
+    {
+      "titulo": "Lecturas — Viernes después de Ceniza",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Is 58, 1-9a · Sal 50 · Mt 9, 14-15",
+      "color": "morado"
+    }
+  ],
+  "2027-02-13": [
+    {
+      "titulo": "Lecturas — Sábado después de Ceniza",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Is 58, 9b-14 · Sal 85 · Lc 5, 27-32",
+      "color": "morado"
+    }
+  ],
+  "2027-02-14": [
+    {
+      "titulo": "Lecturas — I Domingo de Cuaresma — Ciclo B",
+      "descripcion": "Tiempo de Cuaresma / Semana Santa — Ciclo B · Gn 9, 8-15 · Sal 24 · 1 Pe 3, 18-22 · Mc 1, 12-15",
+      "color": "morado"
+    },
+    {
+      "titulo": "I Domingo de Cuaresma",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "morado"
+    }
+  ],
+  "2027-02-15": [
+    {
+      "titulo": "Lecturas — Lunes de la I semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Lev 19, 1-2.11-18 · Sal 18 · Mt 25, 31-46",
+      "color": "morado"
+    }
+  ],
+  "2027-02-16": [
+    {
+      "titulo": "Lecturas — Martes de la I semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Is 55, 10-11 · Sal 33 · Mt 6, 7-15",
+      "color": "morado"
+    }
+  ],
+  "2027-02-17": [
+    {
+      "titulo": "Lecturas — Miércoles de la I semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Jon 3, 1-10 · Sal 50 · Lc 11, 29-32",
+      "color": "morado"
+    }
+  ],
+  "2027-02-18": [
+    {
+      "titulo": "Lecturas — Jueves de la I semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Est 4, 17k.17l-m.17r-t · Sal 137 · Mt 7, 7-12",
+      "color": "morado"
+    }
+  ],
+  "2027-02-19": [
+    {
+      "titulo": "Lecturas — Viernes de la I semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Ez 18, 21-28 · Sal 129 · Mt 5, 20-26",
+      "color": "morado"
+    }
+  ],
+  "2027-02-20": [
+    {
+      "titulo": "Lecturas — Sábado de la I semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Dt 26, 16-19 · Sal 118 · Mt 5, 43-48",
+      "color": "morado"
+    }
+  ],
+  "2027-02-21": [
+    {
+      "titulo": "II Domingo de Cuaresma",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "morado"
+    },
+    {
+      "titulo": "San Pedro Damián, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — II Domingo de Cuaresma — Ciclo B",
+      "descripcion": "Tiempo de Cuaresma / Semana Santa — Ciclo B · Gn 22, 1-2.9a.10-13.15-18 · Sal 115 · Rom 8, 31b-34 · Mc 9, 2-10",
+      "color": "morado"
+    }
+  ],
+  "2027-02-22": [
+    {
+      "titulo": "Lecturas — Lunes de la II semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Dan 9, 4b-10 · Sal 78 · Lc 6, 36-38",
+      "color": "morado"
+    }
+  ],
+  "2027-02-23": [
+    {
+      "titulo": "Lecturas — Martes de la II semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Is 1, 10.16-20 · Sal 49 · Mt 23, 1-12",
+      "color": "morado"
+    },
+    {
+      "titulo": "San Policarpo, obispo y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-02-24": [
+    {
+      "titulo": "Lecturas — Miércoles de la II semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Jer 18, 18-20 · Sal 30 · Mt 20, 17-28",
+      "color": "morado"
+    }
+  ],
+  "2027-02-25": [
+    {
+      "titulo": "Lecturas — Jueves de la II semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Jer 17, 5-10 · Sal 1 · Lc 16, 19-31",
+      "color": "morado"
+    }
+  ],
+  "2027-02-26": [
+    {
+      "titulo": "Lecturas — Viernes de la II semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Gn 37, 3-4.12-13a.17b-28 · Sal 104 · Mt 21, 33-43.45-46",
+      "color": "morado"
+    }
+  ],
+  "2027-02-27": [
+    {
+      "titulo": "Lecturas — Sábado de la II semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Miq 7, 14-15.18-20 · Sal 102 · Lc 15, 1-3.11-32",
+      "color": "morado"
+    }
+  ],
+  "2027-02-28": [
+    {
+      "titulo": "III Domingo de Cuaresma",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "morado"
+    },
+    {
+      "titulo": "Lecturas — III Domingo de Cuaresma — Ciclo B",
+      "descripcion": "Tiempo de Cuaresma / Semana Santa — Ciclo B · Éx 20, 1-17 · Sal 18 · 1 Cor 1, 22-25 · Jn 2, 13-25",
+      "color": "morado"
+    }
+  ],
+  "2027-03-01": [
+    {
+      "titulo": "Lecturas — Lunes de la III semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · 2 Re 5, 1-15a · Sal 41 y 42 · Lc 4, 24-30",
+      "color": "morado"
+    }
+  ],
+  "2027-03-02": [
+    {
+      "titulo": "Lecturas — Martes de la III semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Dan 3, 25.34-43 · Sal 24 · Mt 18, 21-35",
+      "color": "morado"
+    }
+  ],
+  "2027-03-03": [
+    {
+      "titulo": "Lecturas — Miércoles de la III semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Dt 4, 1.5-9 · Sal 147 · Mt 5, 17-19",
+      "color": "morado"
+    }
+  ],
+  "2027-03-04": [
+    {
+      "titulo": "Lecturas — Jueves de la III semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Jer 7, 23-28 · Sal 94 · Lc 11, 14-23",
+      "color": "morado"
+    },
+    {
+      "titulo": "San Casimiro",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-05": [
+    {
+      "titulo": "Lecturas — Viernes de la III semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Os 14, 2-10 · Sal 80 · Mc 12, 28b-34",
+      "color": "morado"
+    }
+  ],
+  "2027-03-06": [
+    {
+      "titulo": "Lecturas — Sábado de la III semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Os 6, 1-6 · Sal 50 · Lc 18, 9-14",
+      "color": "morado"
+    }
+  ],
+  "2027-03-07": [
+    {
+      "titulo": "Lecturas — IV Domingo de Cuaresma (Laetare) — Ciclo B",
+      "descripcion": "Tiempo de Cuaresma / Semana Santa — Ciclo B · 2 Crón 36, 14-16.19-23 · Sal 136 · Ef 2, 4-10 · Jn 3, 14-21",
+      "color": "rosa"
+    },
+    {
+      "titulo": "Santas Perpetua y Felicidad, mártires",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "IV Domingo de Cuaresma (Laetare)",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "rosa"
+    }
+  ],
+  "2027-03-08": [
+    {
+      "titulo": "San Juan de Dios, religioso",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Lunes de la IV semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Is 65, 17-21 · Sal 29 · Jn 4, 43-54",
+      "color": "morado"
+    }
+  ],
+  "2027-03-09": [
+    {
+      "titulo": "Lecturas — Martes de la IV semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Ez 47, 1-9.12 · Sal 45 · Jn 5, 1-3a.5-16",
+      "color": "morado"
+    },
+    {
+      "titulo": "Santa Francisca Romana, religiosa",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-10": [
+    {
+      "titulo": "Lecturas — Miércoles de la IV semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Is 49, 8-15 · Sal 144 · Jn 5, 17-30",
+      "color": "morado"
+    }
+  ],
+  "2027-03-11": [
+    {
+      "titulo": "Lecturas — Jueves de la IV semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Éx 32, 7-14 · Sal 105 · Jn 5, 31-47",
+      "color": "morado"
+    }
+  ],
+  "2027-03-12": [
+    {
+      "titulo": "Lecturas — Viernes de la IV semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Sab 2, 1a.12-22 · Sal 33 · Jn 7, 1-2.10.25-30",
+      "color": "morado"
+    }
+  ],
+  "2027-03-13": [
+    {
+      "titulo": "Lecturas — Sábado de la IV semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Jer 11, 18-20 · Sal 7 · Jn 7, 40-53",
+      "color": "morado"
+    }
+  ],
+  "2027-03-14": [
+    {
+      "titulo": "Lecturas — V Domingo de Cuaresma — Ciclo B",
+      "descripcion": "Tiempo de Cuaresma / Semana Santa — Ciclo B · Jer 31, 31-34 · Sal 50 · Heb 5, 7-9 · Jn 12, 20-33",
+      "color": "morado"
+    },
+    {
+      "titulo": "V Domingo de Cuaresma",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "morado"
+    }
+  ],
+  "2027-03-15": [
+    {
+      "titulo": "Lecturas — Lunes de la V semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Dan 13, 1-9.15-17.19-30.33-62 · Sal 22 · Jn 8, 1-11",
+      "color": "morado"
+    }
+  ],
+  "2027-03-16": [
+    {
+      "titulo": "Lecturas — Martes de la V semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Nm 21, 4-9 · Sal 101 · Jn 8, 21-30",
+      "color": "morado"
+    }
+  ],
+  "2027-03-17": [
+    {
+      "titulo": "Lecturas — Miércoles de la V semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Dan 3, 14-20.91-92.95 · Dan 3 · Jn 8, 31-42",
+      "color": "morado"
+    },
+    {
+      "titulo": "San Patricio, obispo",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-18": [
+    {
+      "titulo": "Lecturas — Jueves de la V semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Gn 17, 3-9 · Sal 104 · Jn 8, 51-59",
+      "color": "morado"
+    },
+    {
+      "titulo": "San Cirilo de Jerusalén, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-19": [
+    {
+      "titulo": "Lecturas — San José, esposo de la Bienaventurada Virgen María",
+      "descripcion": "Solemnidad dentro del Tiempo de Cuaresma · 2 Sam 7, 4-5a.12-14a.16 · Sal 88 · Rom 4, 13.16-18.22 · Mt 1, 16.18-21.24a",
+      "color": "morado"
+    }
+  ],
+  "2027-03-20": [
+    {
+      "titulo": "Lecturas — Sábado de la V semana de Cuaresma",
+      "descripcion": "Tiempo de Cuaresma — Ciclo B · Ez 37, 21-28 · Jer 31 · Jn 11, 45-56",
+      "color": "morado"
+    }
+  ],
+  "2027-03-21": [
+    {
+      "titulo": "Lecturas — Domingo de Ramos en la Pasión del Señor — Ciclo B",
+      "descripcion": "Tiempo de Cuaresma / Semana Santa — Ciclo B · Procesión: Mc 11, 1-10 (o Jn 12, 12-16) · Misa: Is 50, 4-7 · Sal 21 · Flp 2, 6-11 · Mc 14, 1–15, 47",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Domingo de Ramos en la Pasión del Señor",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "rojo"
+    }
+  ],
+  "2027-03-22": [
+    {
+      "titulo": "Lunes Santo",
+      "descripcion": "Semana Santa. Celebración de fecha variable.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — Lunes Santo",
+      "descripcion": "Semana Santa / Santo Triduo Pascual · Is 42, 1-7 · Sal 26 · Jn 12, 1-11",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-23": [
+    {
+      "titulo": "Martes Santo",
+      "descripcion": "Semana Santa. Celebración de fecha variable.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — Martes Santo",
+      "descripcion": "Semana Santa / Santo Triduo Pascual · Is 49, 1-6 · Sal 70 · Jn 13, 21-33.36-38",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-24": [
+    {
+      "titulo": "Miércoles Santo",
+      "descripcion": "Semana Santa. Celebración de fecha variable.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — Miércoles Santo",
+      "descripcion": "Semana Santa / Santo Triduo Pascual · Is 50, 4-9a · Sal 68 · Mt 26, 14-25",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-25": [
+    {
+      "titulo": "Lecturas — Jueves Santo — Misa de la Cena del Señor",
+      "descripcion": "Semana Santa / Santo Triduo Pascual · Éx 12, 1-8.11-14 · Sal 115 · 1 Cor 11, 23-26 · Jn 13, 1-15",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Inicio del Triduo Pascual",
+      "descripcion": "Jueves Santo. Comienza el Triduo Pascual.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Jueves Santo de la Cena del Señor",
+      "descripcion": "Triduo Pascual. Celebración de fecha variable.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Jornada por la Vida",
+      "descripcion": "Jornada de la Iglesia en España vinculada ordinariamente a la Anunciación; en 2027 la celebración litúrgica de la Anunciación se traslada.",
+      "color": "verde"
+    }
+  ],
+  "2027-03-26": [
+    {
+      "titulo": "Lecturas — Viernes Santo — Pasión del Señor",
+      "descripcion": "Semana Santa / Santo Triduo Pascual · Is 52, 13–53, 12 · Sal 30 · Heb 4, 14-16; 5, 7-9 · Jn 18, 1–19, 42",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Viernes Santo de la Pasión del Señor",
+      "descripcion": "Triduo Pascual. Celebración de fecha variable.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Recurso CFYVN — Santo Vía Crucis",
+      "descripcion": "Recurso gratuito del Santo Vía Crucis para el Viernes Santo.<br><br>Enlace: <a href=\"https://www.caminodefeyvidanueva.com/inicio/editorial\">https://www.caminodefeyvidanueva.com/inicio/editorial</a>",
+      "color": "rojo"
+    }
+  ],
+  "2027-03-27": [
+    {
+      "titulo": "Sábado Santo",
+      "descripcion": "Triduo Pascual. Celebración de fecha variable.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Vigilia Pascual",
+      "descripcion": "Semana Santa / Santo Triduo Pascual · Gn 1, 1–2, 2; Gn 22, 1-18; Éx 14, 15–15, 1; Is 54, 5-14; Is 55, 1-11; Bar 3, 9-15.32–4, 4; Ez 36, 16-17a.18-28 · Rom 6, 3-11 · Mc 16, 1-7",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-28": [
+    {
+      "titulo": "Domingo de Pascua de la Resurrección del Señor",
+      "descripcion": "Solemnidad. Celebración de fecha variable.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Inicio del Tiempo Pascual",
+      "descripcion": "Domingo de Pascua de la Resurrección del Señor. Comienza el Tiempo Pascual. Color litúrgico habitual: blanco.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Domingo de Pascua de la Resurrección del Señor",
+      "descripcion": "Tiempo Pascual — Ciclo B · Hch 10, 34a.37-43 · Sal 117 · Col 3, 1-4 (o 1 Cor 5, 6b-8) · Jn 20, 1-9",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-29": [
+    {
+      "titulo": "Lecturas — Lunes de la Octava de Pascua",
+      "descripcion": "Tiempo Pascual — Octava · Hch 2, 14.22-33 · Sal 15 · Mt 28, 8-15",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-30": [
+    {
+      "titulo": "Lecturas — Martes de la Octava de Pascua",
+      "descripcion": "Tiempo Pascual — Octava · Hch 2, 36-41 · Sal 32 · Jn 20, 11-18",
+      "color": "blanco"
+    }
+  ],
+  "2027-03-31": [
+    {
+      "titulo": "Lecturas — Miércoles de la Octava de Pascua",
+      "descripcion": "Tiempo Pascual — Octava · Hch 3, 1-10 · Sal 104 · Lc 24, 13-35",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-01": [
+    {
+      "titulo": "Lecturas — Jueves de la Octava de Pascua",
+      "descripcion": "Tiempo Pascual — Octava · Hch 3, 11-26 · Sal 8 · Lc 24, 35-48",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-02": [
+    {
+      "titulo": "Lecturas — Viernes de la Octava de Pascua",
+      "descripcion": "Tiempo Pascual — Octava · Hch 4, 1-12 · Sal 117 · Jn 21, 1-14",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Francisco de Paula, ermitaño",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-03": [
+    {
+      "titulo": "Lecturas — Sábado de la Octava de Pascua",
+      "descripcion": "Tiempo Pascual — Octava · Hch 4, 13-21 · Sal 117 · Mc 16, 9-15",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-04": [
+    {
+      "titulo": "San Isidoro, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria (España). Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — II Domingo de Pascua o de la Divina Misericordia — Ciclo B",
+      "descripcion": "Tiempo Pascual — Ciclo B · Hch 4, 32-35 · Sal 117 · 1 Jn 5, 1-6 · Jn 20, 19-31",
+      "color": "blanco"
+    },
+    {
+      "titulo": "II Domingo de Pascua o de la Divina Misericordia",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-05": [
+    {
+      "titulo": "Lecturas — Anunciación del Señor (trasladada)",
+      "descripcion": "Solemnidad trasladada dentro del Tiempo Pascual · Is 7, 10-14; 8, 10 · Sal 39 · Heb 10, 4-10 · Lc 1, 26-38",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Anunciación del Señor (trasladada)",
+      "descripcion": "Solemnidad. Celebración de fecha variable.",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-06": [
+    {
+      "titulo": "Lecturas — Martes de la II semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 4, 32-37 · Sal 92 · Jn 3, 7b-15",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-07": [
+    {
+      "titulo": "Lecturas — Miércoles de la II semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 5, 17-26 · Sal 33 · Jn 3, 16-21",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-08": [
+    {
+      "titulo": "Lecturas — Jueves de la II semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 5, 27-33 · Sal 33 · Jn 3, 31-36",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-09": [
+    {
+      "titulo": "Lecturas — Viernes de la II semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 5, 34-42 · Sal 26 · Jn 6, 1-15",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-10": [
+    {
+      "titulo": "Lecturas — Sábado de la II semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 6, 1-7 · Sal 32 · Jn 6, 16-21",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-11": [
+    {
+      "titulo": "Lecturas — III Domingo de Pascua — Ciclo B",
+      "descripcion": "Tiempo Pascual — Ciclo B · Hch 3, 13-15.17-19 · Sal 4 · 1 Jn 2, 1-5a · Lc 24, 35-48",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Estanislao, obispo y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-04-12": [
+    {
+      "titulo": "Lecturas — Lunes de la III semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 6, 8-15 · Sal 118 · Jn 6, 22-29",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-13": [
+    {
+      "titulo": "Lecturas — Martes de la III semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 7, 51–8, 1a · Sal 30 · Jn 6, 30-35",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Martín I, papa y mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-04-14": [
+    {
+      "titulo": "Lecturas — Miércoles de la III semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 8, 1b-8 · Sal 65 · Jn 6, 35-40",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-15": [
+    {
+      "titulo": "Lecturas — Jueves de la III semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 8, 26-40 · Sal 65 · Jn 6, 44-51",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-16": [
+    {
+      "titulo": "Lecturas — Viernes de la III semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 9, 1-20 · Sal 116 · Jn 6, 52-59",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-17": [
+    {
+      "titulo": "Lecturas — Sábado de la III semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 9, 31-42 · Sal 115 · Jn 6, 60-69",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-18": [
+    {
+      "titulo": "Jornada Mundial de Oración por las Vocaciones",
+      "descripcion": "Domingo IV de Pascua.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — IV Domingo de Pascua — Ciclo B",
+      "descripcion": "Tiempo Pascual — Ciclo B · Hch 4, 8-12 · Sal 117 · 1 Jn 3, 1-2 · Jn 10, 11-18",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-19": [
+    {
+      "titulo": "Lecturas — Lunes de la IV semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 11, 1-18 · Sal 41-42 · Jn 10, 1-10",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-20": [
+    {
+      "titulo": "Lecturas — Martes de la IV semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 11, 19-26 · Sal 86 · Jn 10, 22-30",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-21": [
+    {
+      "titulo": "Lecturas — Miércoles de la IV semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 12, 24–13, 5a · Sal 66 · Jn 12, 44-50",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Anselmo, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-22": [
+    {
+      "titulo": "Lecturas — Jueves de la IV semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 13, 13-25 · Sal 88 · Jn 13, 16-20",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-23": [
+    {
+      "titulo": "Lecturas — Viernes de la IV semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 13, 26-33 · Sal 2 · Jn 14, 1-6",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Jorge, mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-04-24": [
+    {
+      "titulo": "Lecturas — Sábado de la IV semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 13, 44-52 · Sal 97 · Jn 14, 7-14",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Fidel de Sigmaringa, presbítero y mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-04-25": [
+    {
+      "titulo": "Lecturas — V Domingo de Pascua — Ciclo B",
+      "descripcion": "Tiempo Pascual — Ciclo B · Hch 9, 26-31 · Sal 21 · 1 Jn 3, 18-24 · Jn 15, 1-8",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-26": [
+    {
+      "titulo": "Lecturas — Lunes de la V semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 14, 5-18 · Sal 113B · Jn 14, 21-26",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-27": [
+    {
+      "titulo": "Lecturas — Martes de la V semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 14, 19-28 · Sal 144 · Jn 14, 27-31a",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-28": [
+    {
+      "titulo": "Lecturas — Miércoles de la V semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 15, 1-6 · Sal 121 · Jn 15, 1-8",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Pedro Chanel, presbítero y mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-04-29": [
+    {
+      "titulo": "Lecturas — Jueves de la V semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 15, 7-21 · Sal 95 · Jn 15, 9-11",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Santa Catalina de Siena, virgen y doctora de la Iglesia, patrona de Europa",
+      "descripcion": "Fiesta. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-04-30": [
+    {
+      "titulo": "Lecturas — Viernes de la V semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 15, 22-31 · Sal 56 · Jn 15, 12-17",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Pío V, papa",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-01": [
+    {
+      "titulo": "Lecturas — Sábado de la V semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 16, 1-10 · Sal 99 · Jn 15, 18-21",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San José Obrero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-02": [
+    {
+      "titulo": "Lecturas — VI Domingo de Pascua — Ciclo B",
+      "descripcion": "Tiempo Pascual — Ciclo B · Hch 10, 25-26.34-35.44-48 · Sal 97 · 1 Jn 4, 7-10 · Jn 15, 9-17",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Atanasio, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-03": [
+    {
+      "titulo": "Lecturas — Santos Felipe y Santiago, apóstoles",
+      "descripcion": "Fiesta dentro del Tiempo Pascual · 1 Cor 15, 1-8 · Sal 18 · Jn 14, 6-14",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-04": [
+    {
+      "titulo": "Lecturas — Martes de la VI semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 16, 22-34 · Sal 137 · Jn 16, 5-11",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-05": [
+    {
+      "titulo": "Lecturas — Miércoles de la VI semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 17, 15.22–18, 1 · Sal 148 · Jn 16, 12-15",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-06": [
+    {
+      "titulo": "Lecturas — Jueves de la VI semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 18, 1-8 · Sal 97 · Jn 16, 16-20",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-07": [
+    {
+      "titulo": "Lecturas — Viernes de la VI semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 18, 9-18 · Sal 46 · Jn 16, 20-23",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-08": [
+    {
+      "titulo": "Lecturas — Sábado de la VI semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 18, 23-28 · Sal 46 · Jn 16, 23b-28",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-09": [
+    {
+      "titulo": "Ascensión del Señor",
+      "descripcion": "Solemnidad. Celebración de fecha variable.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Ascensión del Señor — Ciclo B",
+      "descripcion": "Tiempo Pascual — Solemnidad · Hch 1, 1-11 · Sal 46 · Ef 1, 17-23 · Mc 16, 15-20",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Jornada Mundial de las Comunicaciones Sociales",
+      "descripcion": "En España se celebra ordinariamente en la solemnidad de la Ascensión.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-10": [
+    {
+      "titulo": "Lecturas — Lunes de la VII semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 19, 1-8 · Sal 67 · Jn 16, 29-33",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Juan de Ávila, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria (España). Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-11": [
+    {
+      "titulo": "Lecturas — Martes de la VII semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 20, 17-27 · Sal 67 · Jn 17, 1-11a",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-12": [
+    {
+      "titulo": "Santos Nereo y Aquileo, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Miércoles de la VII semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 20, 28-38 · Sal 67 · Jn 17, 11b-19",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-13": [
+    {
+      "titulo": "Bienaventurada Virgen María de Fátima",
+      "descripcion": "Memoria libre. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la VII semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 22, 30; 23, 6-11 · Sal 15 · Jn 17, 20-26",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-14": [
+    {
+      "titulo": "Lecturas — San Matías, apóstol",
+      "descripcion": "Fiesta dentro del Tiempo Pascual · Hch 1, 15-17.20-26 · Sal 112 · Jn 15, 9-17",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-15": [
+    {
+      "titulo": "Lecturas — Sábado de la VII semana de Pascua",
+      "descripcion": "Tiempo Pascual · Hch 28, 16-20.30-31 · Sal 10 · Jn 21, 20-25",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-16": [
+    {
+      "titulo": "Lecturas — Domingo de Pentecostés — Ciclo B",
+      "descripcion": "Tiempo Pascual — Solemnidad · Hch 2, 1-11 · Sal 103 · 1 Cor 12, 3b-7.12-13 · Jn 20, 19-23",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Domingo de Pentecostés",
+      "descripcion": "Solemnidad. Celebración de fecha variable.",
+      "color": "rojo"
+    }
+  ],
+  "2027-05-17": [
+    {
+      "titulo": "Lecturas — Bienaventurada Virgen María, Madre de la Iglesia",
+      "descripcion": "Gn 3, 9-15.20 (o Hch 1, 12-14) · Sal 86 · Jn 19, 25-34",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Bienaventurada Virgen María, Madre de la Iglesia",
+      "descripcion": "Memoria obligatoria. Celebración de fecha variable.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Inicio del Tiempo Ordinario — segunda parte",
+      "descripcion": "Se reanuda el Tiempo Ordinario el lunes después de Pentecostés. Color litúrgico habitual: verde.",
+      "color": "verde"
+    }
+  ],
+  "2027-05-18": [
+    {
+      "titulo": "Lecturas — Martes de la semana 7 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Eclo 2, 1-11 · Sal 36 · Mc 9, 30-37",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Juan I, papa",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-19": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 7 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Eclo 4, 11-19 · Sal 118 · Mc 9, 38-40",
+      "color": "verde"
+    }
+  ],
+  "2027-05-20": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 7 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Eclo 5, 1-8 · Sal 1 · Mc 9, 41-50",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Bernardino de Siena, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-21": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 7 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Eclo 6, 5-17 · Sal 118 · Mc 10, 1-12",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Cristóbal Magallanes, presbítero, y compañeros, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-05-22": [
+    {
+      "titulo": "Santa Rita de Casia, religiosa",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Sábado de la semana 7 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Eclo 17, 1-15 · Sal 102 · Mc 10, 13-16",
+      "color": "verde"
+    }
+  ],
+  "2027-05-23": [
+    {
+      "titulo": "Lecturas — Santísima Trinidad — Ciclo B",
+      "descripcion": "Dt 4, 32-34.39-40 · Sal 32 · Rom 8, 14-17 · Mt 28, 16-20",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santísima Trinidad",
+      "descripcion": "Solemnidad. Celebración de fecha variable.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-24": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 8 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Eclo 17, 20-24 · Sal 31 · Mc 10, 17-27",
+      "color": "verde"
+    }
+  ],
+  "2027-05-25": [
+    {
+      "titulo": "San Beda el Venerable, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Gregorio VII, papa",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Martes de la semana 8 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Eclo 35, 1-12 · Sal 49 · Mc 10, 28-31",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa María Magdalena de Pazzi, virgen",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-26": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 8 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Eclo 36, 1.4-5a.10-17 · Sal 78 · Mc 10, 32-45",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Felipe Neri, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-27": [
+    {
+      "titulo": "Jesucristo, Sumo y Eterno Sacerdote",
+      "descripcion": "Fiesta (España). Celebración de fecha variable.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jesucristo, Sumo y Eterno Sacerdote",
+      "descripcion": "Is 52, 13–53, 12 (o Heb 10, 12-23) · Sal 39 · Lc 22, 14-20",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Agustín de Canterbury, obispo",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-05-28": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 8 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Eclo 44, 1.9-13 · Sal 149 · Mc 11, 11-26",
+      "color": "verde"
+    }
+  ],
+  "2027-05-29": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 8 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Eclo 51, 12cd-20 · Sal 18 · Mc 11, 27-33",
+      "color": "verde"
+    }
+  ],
+  "2027-05-30": [
+    {
+      "titulo": "Santísimo Cuerpo y Sangre de Cristo (Corpus Christi)",
+      "descripcion": "Solemnidad. Celebración de fecha variable.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Santísimo Cuerpo y Sangre de Cristo — Corpus Christi — Ciclo B",
+      "descripcion": "Éx 24, 3-8 · Sal 115 · Heb 9, 11-15 · Mc 14, 12-16.22-26",
+      "color": "verde"
+    }
+  ],
+  "2027-05-31": [
+    {
+      "titulo": "Lecturas — Visitación de la Bienaventurada Virgen María",
+      "descripcion": "Sof 3, 14-18 (o Rom 12, 9-16b) · Is 12 · Lc 1, 39-56",
+      "color": "blanco"
+    }
+  ],
+  "2027-06-01": [
+    {
+      "titulo": "San Justino, mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Martes de la semana 9 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Tob 2, 9-14 · Sal 111 · Mc 12, 13-17",
+      "color": "verde"
+    }
+  ],
+  "2027-06-02": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 9 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Tob 3, 1-11a.16-17a · Sal 24 · Mc 12, 18-27",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santos Marcelino y Pedro, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-06-03": [
+    {
+      "titulo": "Santos Carlos Lwanga y compañeros, mártires",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 9 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Tob 6, 10-11; 7, 1bcde.9-17; 8, 4-9a · Sal 127 · Mc 12, 28b-34",
+      "color": "verde"
+    }
+  ],
+  "2027-06-04": [
+    {
+      "titulo": "Lecturas — Sagrado Corazón de Jesús — Ciclo B",
+      "descripcion": "Os 11, 1.3-4.8c-9 · Is 12 · Ef 3, 8-12.14-19 · Jn 19, 31-37",
+      "color": "verde"
+    },
+    {
+      "titulo": "Sagrado Corazón de Jesús",
+      "descripcion": "Solemnidad. Celebración de fecha variable.",
+      "color": "blanco"
+    }
+  ],
+  "2027-06-05": [
+    {
+      "titulo": "San Bonifacio, obispo y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Inmaculado Corazón de la bienaventurada Virgen María",
+      "descripcion": "Memoria. Celebración de fecha variable.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Sábado de la semana 9 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Tob 12, 1.5-15.20 · Tob 13 · Mc 12, 38-44",
+      "color": "verde"
+    }
+  ],
+  "2027-06-06": [
+    {
+      "titulo": "San Norberto, obispo",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — X Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Gn 3, 9-15 · Sal 129 · 2 Cor 4, 13–5, 1 · Mc 3, 20-35",
+      "color": "verde"
+    }
+  ],
+  "2027-06-07": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 10 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 1, 1-7 · Sal 33 · Mt 5, 1-12",
+      "color": "verde"
+    }
+  ],
+  "2027-06-08": [
+    {
+      "titulo": "Lecturas — Martes de la semana 10 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 1, 18-22 · Sal 118 · Mt 5, 13-16",
+      "color": "verde"
+    }
+  ],
+  "2027-06-09": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 10 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 3, 4-11 · Sal 98 · Mt 5, 17-19",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Efrén, diácono y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-06-10": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 10 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 3, 15–4, 1.3-6 · Sal 84 · Mt 5, 20-26",
+      "color": "verde"
+    }
+  ],
+  "2027-06-11": [
+    {
+      "titulo": "San Bernabé, apóstol",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Viernes de la semana 10 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 4, 7-15 · Sal 114 · Mt 5, 27-32",
+      "color": "verde"
+    }
+  ],
+  "2027-06-12": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 10 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 5, 14-21 · Sal 102 · Mt 5, 33-37",
+      "color": "verde"
+    }
+  ],
+  "2027-06-13": [
+    {
+      "titulo": "San Antonio de Padua, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — XI Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Ez 17, 22-24 · Sal 91 · 2 Cor 5, 6-10 · Mc 4, 26-34",
+      "color": "verde"
+    }
+  ],
+  "2027-06-14": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 11 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 6, 1-10 · Sal 97 · Mt 5, 38-42",
+      "color": "verde"
+    }
+  ],
+  "2027-06-15": [
+    {
+      "titulo": "Lecturas — Martes de la semana 11 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 8, 1-9 · Sal 145 · Mt 5, 43-48",
+      "color": "verde"
+    }
+  ],
+  "2027-06-16": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 11 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 9, 6-11 · Sal 111 · Mt 6, 1-6.16-18",
+      "color": "verde"
+    }
+  ],
+  "2027-06-17": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 11 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 11, 1-11 · Sal 110 · Mt 6, 7-15",
+      "color": "verde"
+    }
+  ],
+  "2027-06-18": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 11 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 11, 18.21-30 · Sal 33 · Mt 6, 19-23",
+      "color": "verde"
+    }
+  ],
+  "2027-06-19": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 11 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Cor 12, 1-10 · Sal 33 · Mt 6, 24-34",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Romualdo, abad",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-06-20": [
+    {
+      "titulo": "Lecturas — XII Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Job 38, 1.8-11 · Sal 106 · 2 Cor 5, 14-17 · Mc 4, 35-41",
+      "color": "verde"
+    }
+  ],
+  "2027-06-21": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 12 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 12, 1-9 · Sal 32 · Mt 7, 1-5",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Luis Gonzaga, religioso",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-06-22": [
+    {
+      "titulo": "Lecturas — Martes de la semana 12 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 13, 2.5-18 · Sal 14 · Mt 7, 6.12-14",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santos Juan Fisher, obispo, y Tomás Moro, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-06-23": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 12 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 15, 1-12.17-18 · Sal 104 · Mt 7, 15-20",
+      "color": "verde"
+    }
+  ],
+  "2027-06-24": [
+    {
+      "titulo": "Lecturas — Natividad de san Juan Bautista",
+      "descripcion": "Is 49, 1-6 · Sal 138 · Hch 13, 22-26 · Lc 1, 57-66.80",
+      "color": "verde"
+    }
+  ],
+  "2027-06-25": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 12 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 17, 1.9-10.15-22 · Sal 127 · Mt 8, 1-4",
+      "color": "verde"
+    }
+  ],
+  "2027-06-26": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 12 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 18, 1-15 · Lc 1 · Mt 8, 5-17",
+      "color": "verde"
+    }
+  ],
+  "2027-06-27": [
+    {
+      "titulo": "San Cirilo de Alejandría, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — XIII Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Sab 1, 13-15; 2, 23-24 · Sal 29 · 2 Cor 8, 7.9.13-15 · Mc 5, 21-43",
+      "color": "verde"
+    }
+  ],
+  "2027-06-28": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 13 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 18, 16-33 · Sal 102 · Mt 8, 18-22",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Ireneo, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-06-29": [
+    {
+      "titulo": "Lecturas — Santos Pedro y Pablo, apóstoles",
+      "descripcion": "Hch 12, 1-11 · Sal 33 · 2 Tim 4, 6-8.17-18 · Mt 16, 13-19",
+      "color": "rojo"
+    }
+  ],
+  "2027-06-30": [
+    {
+      "titulo": "Santos Protomártires de la Iglesia Romana",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Miércoles de la semana 13 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 21, 5.8-20a · Sal 33 · Mt 8, 28-34",
+      "color": "verde"
+    }
+  ],
+  "2027-07-01": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 13 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 22, 1b-19 · Sal 113 · Mt 9, 1-8",
+      "color": "verde"
+    }
+  ],
+  "2027-07-02": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 13 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 23, 1-4.19; 24, 1-8.62-67 · Sal 105 · Mt 9, 9-13",
+      "color": "verde"
+    }
+  ],
+  "2027-07-03": [
+    {
+      "titulo": "Lecturas — Santo Tomás, apóstol",
+      "descripcion": "Ef 2, 19-22 · Sal 116 · Jn 20, 24-29",
+      "color": "rojo"
+    }
+  ],
+  "2027-07-04": [
+    {
+      "titulo": "Lecturas — XIV Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Ez 2, 2-5 · Sal 122 · 2 Cor 12, 7-10 · Mc 6, 1-6",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa Isabel de Portugal",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-07-05": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 14 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 28, 10-22a · Sal 90 · Mt 9, 18-26",
+      "color": "verde"
+    }
+  ],
+  "2027-07-06": [
+    {
+      "titulo": "Lecturas — Martes de la semana 14 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 32, 23-33 · Sal 16 · Mt 9, 32-38",
+      "color": "verde"
+    }
+  ],
+  "2027-07-07": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 14 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 41, 55-57; 42, 5-7a.17-24a · Sal 32 · Mt 10, 1-7",
+      "color": "verde"
+    }
+  ],
+  "2027-07-08": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 14 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 44, 18-21.23b-29; 45, 1-5 · Sal 104 · Mt 10, 7-15",
+      "color": "verde"
+    }
+  ],
+  "2027-07-09": [
+    {
+      "titulo": "Santos Agustín Zhao Rong, presbítero, y compañeros, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Viernes de la semana 14 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 46, 1-7.28-30 · Sal 36 · Mt 10, 16-23",
+      "color": "verde"
+    }
+  ],
+  "2027-07-10": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 14 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Gn 49, 29-32; 50, 15-26a · Sal 104 · Mt 10, 24-33",
+      "color": "verde"
+    }
+  ],
+  "2027-07-11": [
+    {
+      "titulo": "Lecturas — San Benito, abad, patrono de Europa",
+      "descripcion": "Prov 2, 1-9 · Sal 33 · Mt 19, 27-29",
+      "color": "verde"
+    }
+  ],
+  "2027-07-12": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 15 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 1, 8-14.22 · Sal 123 · Mt 10, 34–11, 1",
+      "color": "verde"
+    }
+  ],
+  "2027-07-13": [
+    {
+      "titulo": "Lecturas — Martes de la semana 15 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 2, 1-15a · Sal 68 · Mt 11, 20-24",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Enrique",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-07-14": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 15 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 3, 1-6.9-12 · Sal 102 · Mt 11, 25-27",
+      "color": "verde"
+    }
+  ],
+  "2027-07-15": [
+    {
+      "titulo": "San Buenaventura, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 15 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 3, 13-20 · Sal 104 · Mt 11, 28-30",
+      "color": "verde"
+    }
+  ],
+  "2027-07-16": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 15 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 11, 10–12, 14 · Sal 114 · Mt 12, 1-8",
+      "color": "verde"
+    }
+  ],
+  "2027-07-17": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 15 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 12, 37-42 · Sal 135 · Mt 12, 14-21",
+      "color": "verde"
+    }
+  ],
+  "2027-07-18": [
+    {
+      "titulo": "Lecturas — XVI Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Jer 23, 1-6 · Sal 22 · Ef 2, 13-18 · Mc 6, 30-34",
+      "color": "verde"
+    }
+  ],
+  "2027-07-19": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 16 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 14, 5-18 · Éx 15 · Mt 12, 38-42",
+      "color": "verde"
+    }
+  ],
+  "2027-07-20": [
+    {
+      "titulo": "Lecturas — Martes de la semana 16 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 14, 21–15, 1 · Éx 15 · Mt 12, 46-50",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Apolinar, obispo y mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-07-21": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 16 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 16, 1-5.9-15 · Sal 77 · Mt 13, 1-9",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Lorenzo de Brindis, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-07-22": [
+    {
+      "titulo": "Santa María Magdalena",
+      "descripcion": "Fiesta. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Santa María Magdalena",
+      "descripcion": "Cant 3, 1-4b (o 2 Cor 5, 14-17) · Sal 62 · Jn 20, 1-2.11-18",
+      "color": "blanco"
+    }
+  ],
+  "2027-07-23": [
+    {
+      "titulo": "Lecturas — Santa Brígida, religiosa, patrona de Europa",
+      "descripcion": "Gál 2, 19-20 · Sal 33 · Jn 15, 1-8",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa Brígida, religiosa, patrona de Europa",
+      "descripcion": "Fiesta. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-07-24": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 16 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 24, 3-8 · Sal 49 · Mt 13, 24-30",
+      "color": "verde"
+    }
+  ],
+  "2027-07-25": [
+    {
+      "titulo": "Jornada Mundial de los Abuelos y de los Mayores",
+      "descripcion": "Se celebra el cuarto domingo de julio; fecha calculada para 2027.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — Santiago, apóstol, patrono de España",
+      "descripcion": "Hch 4, 33; 5, 12.27-33; 12, 2 · Sal 66 · 2 Cor 4, 7-15 · Mt 20, 20-28",
+      "color": "rojo"
+    }
+  ],
+  "2027-07-26": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 17 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 32, 15-24.30-34 · Sal 105 · Mt 13, 31-35",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santos Joaquín y Ana, padres de la bienaventurada Virgen María",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-07-27": [
+    {
+      "titulo": "Lecturas — Martes de la semana 17 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 33, 7-11; 34, 5b-9.28 · Sal 102 · Mt 13, 36-43",
+      "color": "verde"
+    }
+  ],
+  "2027-07-28": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 17 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 34, 29-35 · Sal 98 · Mt 13, 44-46",
+      "color": "verde"
+    }
+  ],
+  "2027-07-29": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 17 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Éx 40, 16-21.34-38 · Sal 83 · Mt 13, 47-53",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santos Marta, María y Lázaro",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-07-30": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 17 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Lev 23, 1.4-11.15-16.27.34b-37 · Sal 80 · Mt 13, 54-58",
+      "color": "verde"
+    }
+  ],
+  "2027-07-31": [
+    {
+      "titulo": "San Ignacio de Loyola, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Sábado de la semana 17 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Lev 25, 1.8-17 · Sal 66 · Mt 14, 1-12",
+      "color": "verde"
+    }
+  ],
+  "2027-08-01": [
+    {
+      "titulo": "Lecturas — XVIII Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Éx 16, 2-4.12-15 · Sal 77 · Ef 4, 17.20-24 · Jn 6, 24-35",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Alfonso María de Ligorio, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-08-02": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 18 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Nm 11, 4b-15 · Sal 80 · Mt 14, 13-21",
+      "color": "verde"
+    }
+  ],
+  "2027-08-03": [
+    {
+      "titulo": "Lecturas — Martes de la semana 18 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Nm 12, 1-13 · Sal 50 · Mt 14, 22-36",
+      "color": "verde"
+    }
+  ],
+  "2027-08-04": [
+    {
+      "titulo": "San Juan María Vianney, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Miércoles de la semana 18 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Nm 13, 1-2.25–14, 1.26a-29a.34-35 · Sal 105 · Mt 15, 21-28",
+      "color": "verde"
+    }
+  ],
+  "2027-08-05": [
+    {
+      "titulo": "Dedicación de la Basílica de Santa María la Mayor",
+      "descripcion": "Memoria libre. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 18 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Nm 20, 1-13 · Sal 94 · Mt 16, 13-23",
+      "color": "verde"
+    }
+  ],
+  "2027-08-06": [
+    {
+      "titulo": "Lecturas — Transfiguración del Señor",
+      "descripcion": "Dan 7, 9-10.13-14 · Sal 96 · 2 Pe 1, 16-19 · Mc 9, 2-10",
+      "color": "verde"
+    }
+  ],
+  "2027-08-07": [
+    {
+      "titulo": "Santos Sixto II, papa, y compañeros, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Sábado de la semana 18 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Dt 6, 4-13 · Sal 17 · Mt 17, 14-20",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Cayetano, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-08-08": [
+    {
+      "titulo": "Santo Domingo de Guzmán, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — XIX Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "1 Re 19, 4-8 · Sal 33 · Ef 4, 30–5, 2 · Jn 6, 41-51",
+      "color": "verde"
+    }
+  ],
+  "2027-08-09": [
+    {
+      "titulo": "Lecturas — Santa Teresa Benedicta de la Cruz, virgen y mártir, patrona de Europa",
+      "descripcion": "Os 2, 16b.17b.21-22 · Sal 44 · Mt 25, 1-13",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Santa Teresa Benedicta de la Cruz, virgen y mártir, patrona de Europa",
+      "descripcion": "Fiesta. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-08-10": [
+    {
+      "titulo": "San Lorenzo, diácono y mártir",
+      "descripcion": "Fiesta. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — San Lorenzo, diácono y mártir",
+      "descripcion": "2 Cor 9, 6-10 · Sal 111 · Jn 12, 24-26",
+      "color": "rojo"
+    }
+  ],
+  "2027-08-11": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 19 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Dt 34, 1-12 · Sal 65 · Mt 18, 15-20",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa Clara, virgen",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-08-12": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 19 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jos 3, 7-10a.11.13-17 · Sal 113 · Mt 18, 21–19, 1",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa Juana Francisca de Chantal, religiosa",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-08-13": [
+    {
+      "titulo": "Santos Ponciano, papa, e Hipólito, presbítero, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Viernes de la semana 19 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jos 24, 1-13 · Sal 135 · Mt 19, 3-12",
+      "color": "verde"
+    }
+  ],
+  "2027-08-14": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 19 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jos 24, 14-29 · Sal 15 · Mt 19, 13-15",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Maximiliano María Kolbe, presbítero y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-08-15": [
+    {
+      "titulo": "Lecturas — Asunción de la Bienaventurada Virgen María",
+      "descripcion": "Ap 11, 19a; 12, 1-6a.10ab · Sal 44 · 1 Cor 15, 20-27a · Lc 1, 39-56",
+      "color": "blanco"
+    }
+  ],
+  "2027-08-16": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 20 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jue 2, 11-19 · Sal 105 · Mt 19, 16-22",
+      "color": "verde"
+    }
+  ],
+  "2027-08-17": [
+    {
+      "titulo": "Lecturas — Martes de la semana 20 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jue 6, 11-24a · Sal 84 · Mt 19, 23-30",
+      "color": "verde"
+    }
+  ],
+  "2027-08-18": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 20 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jue 9, 6-15 · Sal 20 · Mt 20, 1-16",
+      "color": "verde"
+    }
+  ],
+  "2027-08-19": [
+    {
+      "titulo": "San Juan Eudes, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 20 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jue 11, 29-39a · Sal 39 · Mt 22, 1-14",
+      "color": "verde"
+    }
+  ],
+  "2027-08-20": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 20 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rut 1, 1.3-6.14b-16.22 · Sal 145 · Mt 22, 34-40",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Bernardo, abad y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-08-21": [
+    {
+      "titulo": "San Pío X, papa",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Sábado de la semana 20 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rut 2, 1-3.8-11; 4, 13-17 · Sal 127 · Mt 23, 1-12",
+      "color": "verde"
+    }
+  ],
+  "2027-08-22": [
+    {
+      "titulo": "Bienaventurada Virgen María Reina",
+      "descripcion": "Memoria obligatoria. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — XXI Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Jos 24, 1-2a.15-17.18b · Sal 33 · Ef 5, 21-32 · Jn 6, 60-69",
+      "color": "verde"
+    }
+  ],
+  "2027-08-23": [
+    {
+      "titulo": "Santa Rosa de Lima, virgen",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Lunes de la semana 21 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tes 1, 1-5.8b-10 · Sal 149 · Mt 23, 13-22",
+      "color": "verde"
+    }
+  ],
+  "2027-08-24": [
+    {
+      "titulo": "Lecturas — San Bartolomé, apóstol",
+      "descripcion": "Ap 21, 9b-14 · Sal 144 · Jn 1, 45-51",
+      "color": "rojo"
+    }
+  ],
+  "2027-08-25": [
+    {
+      "titulo": "San Luis",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Miércoles de la semana 21 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tes 2, 9-13 · Sal 138 · Mt 23, 27-32",
+      "color": "verde"
+    },
+    {
+      "titulo": "San José de Calasanz, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-08-26": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 21 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tes 3, 7-13 · Sal 89 · Mt 24, 42-51",
+      "color": "verde"
+    }
+  ],
+  "2027-08-27": [
+    {
+      "titulo": "Santa Mónica",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Viernes de la semana 21 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tes 4, 1-8 · Sal 96 · Mt 25, 1-13",
+      "color": "verde"
+    }
+  ],
+  "2027-08-28": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 21 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tes 4, 9-11 · Sal 97 · Mt 25, 14-30",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Agustín, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-08-29": [
+    {
+      "titulo": "Lecturas — XXII Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Dt 4, 1-2.6-8 · Sal 14 · Sant 1, 17-18.21b-22.27 · Mc 7, 1-8.14-15.21-23",
+      "color": "verde"
+    }
+  ],
+  "2027-08-30": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 22 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tes 4, 13-18 · Sal 95 · Lc 4, 16-30",
+      "color": "verde"
+    }
+  ],
+  "2027-08-31": [
+    {
+      "titulo": "Lecturas — Martes de la semana 22 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tes 5, 1-6.9-11 · Sal 26 · Lc 4, 31-37",
+      "color": "verde"
+    }
+  ],
+  "2027-09-01": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 22 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Col 1, 1-8 · Sal 51 · Lc 4, 38-44",
+      "color": "verde"
+    }
+  ],
+  "2027-09-02": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 22 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Col 1, 9-14 · Sal 97 · Lc 5, 1-11",
+      "color": "verde"
+    }
+  ],
+  "2027-09-03": [
+    {
+      "titulo": "San Gregorio Magno, papa y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Viernes de la semana 22 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Col 1, 15-20 · Sal 99 · Lc 5, 33-39",
+      "color": "verde"
+    }
+  ],
+  "2027-09-04": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 22 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Col 1, 21-23 · Sal 53 · Lc 6, 1-5",
+      "color": "verde"
+    }
+  ],
+  "2027-09-05": [
+    {
+      "titulo": "Lecturas — XXIII Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Is 35, 4-7a · Sal 145 · Sant 2, 1-5 · Mc 7, 31-37",
+      "color": "verde"
+    }
+  ],
+  "2027-09-06": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 23 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Col 1, 24–2, 3 · Sal 61 · Lc 6, 6-11",
+      "color": "verde"
+    }
+  ],
+  "2027-09-07": [
+    {
+      "titulo": "Lecturas — Martes de la semana 23 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Col 2, 6-15 · Sal 144 · Lc 6, 12-19",
+      "color": "verde"
+    }
+  ],
+  "2027-09-08": [
+    {
+      "titulo": "Lecturas — Natividad de la Bienaventurada Virgen María",
+      "descripcion": "Miq 5, 1-4a (o Rom 8, 28-30) · Sal 12 · Mt 1, 1-16.18-23",
+      "color": "blanco"
+    }
+  ],
+  "2027-09-09": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 23 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Col 3, 12-17 · Sal 150 · Lc 6, 27-38",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Pedro Claver, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-09-10": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 23 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tim 1, 1-2.12-14 · Sal 15 · Lc 6, 39-42",
+      "color": "verde"
+    }
+  ],
+  "2027-09-11": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 23 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tim 1, 15-17 · Sal 112 · Lc 6, 43-49",
+      "color": "verde"
+    }
+  ],
+  "2027-09-12": [
+    {
+      "titulo": "Lecturas — XXIV Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Is 50, 4-9a · Sal 114 · Sant 2, 14-18 · Mc 8, 27-35",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santísimo Nombre de María",
+      "descripcion": "Memoria libre. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    }
+  ],
+  "2027-09-13": [
+    {
+      "titulo": "San Juan Crisóstomo, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Lunes de la semana 24 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tim 2, 1-8 · Sal 27 · Lc 7, 1-10",
+      "color": "verde"
+    }
+  ],
+  "2027-09-14": [
+    {
+      "titulo": "Lecturas — Exaltación de la Santa Cruz",
+      "descripcion": "Nm 21, 4b-9 · Sal 77 · Flp 2, 6-11 · Jn 3, 13-17",
+      "color": "verde"
+    }
+  ],
+  "2027-09-15": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 24 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tim 3, 14-16 · Sal 110 · Lc 7, 31-35",
+      "color": "verde"
+    },
+    {
+      "titulo": "Bienaventurada Virgen María de los Dolores",
+      "descripcion": "Memoria obligatoria. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    }
+  ],
+  "2027-09-16": [
+    {
+      "titulo": "Santos Cornelio, papa, y Cipriano, obispo, mártires",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 24 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tim 4, 12-16 · Sal 110 · Lc 7, 36-50",
+      "color": "verde"
+    }
+  ],
+  "2027-09-17": [
+    {
+      "titulo": "San Roberto Belarmino, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Santa Hildegarda de Bingen, virgen y doctora de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Viernes de la semana 24 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tim 6, 2c-12 · Sal 48 · Lc 8, 1-3",
+      "color": "verde"
+    }
+  ],
+  "2027-09-18": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 24 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Tim 6, 13-16 · Sal 99 · Lc 8, 4-15",
+      "color": "verde"
+    }
+  ],
+  "2027-09-19": [
+    {
+      "titulo": "Lecturas — XXV Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Sab 2, 12.17-20 · Sal 53 · Sant 3, 16–4, 3 · Mc 9, 30-37",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Jenaro, obispo y mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-09-20": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 25 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Esd 1, 1-6 · Sal 125 · Lc 8, 16-18",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santos Andrés Kim Taegon, presbítero, Pablo Chong Hasang y compañeros, mártires",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-09-21": [
+    {
+      "titulo": "Lecturas — San Mateo, apóstol y evangelista",
+      "descripcion": "Ef 4, 1-7.11-13 · Sal 18 · Mt 9, 9-13",
+      "color": "rojo"
+    }
+  ],
+  "2027-09-22": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 25 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Esd 9, 5-9 · Tob 13 · Lc 9, 1-6",
+      "color": "verde"
+    }
+  ],
+  "2027-09-23": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 25 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Ag 1, 1-8 · Sal 149 · Lc 9, 7-9",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Pío de Pietrelcina, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-09-24": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 25 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Ag 2, 1-9 · Sal 42 · Lc 9, 18-22",
+      "color": "verde"
+    }
+  ],
+  "2027-09-25": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 25 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Zac 2, 5-9.14-15a · Jer 31 · Lc 9, 43b-45",
+      "color": "verde"
+    }
+  ],
+  "2027-09-26": [
+    {
+      "titulo": "Jornada Mundial del Migrante y del Refugiado",
+      "descripcion": "Último domingo de septiembre según la práctica ordinaria de la CEE.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santos Cosme y Damián, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — XXVI Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Nm 11, 25-29 · Sal 18 · Sant 5, 1-6 · Mc 9, 38-43.45.47-48",
+      "color": "verde"
+    }
+  ],
+  "2027-09-27": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 26 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Zac 8, 1-8 · Sal 101 · Lc 9, 46-50",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Vicente de Paúl, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-09-28": [
+    {
+      "titulo": "Lecturas — Martes de la semana 26 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Zac 8, 20-23 · Sal 86 · Lc 9, 51-56",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Wenceslao, mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-09-29": [
+    {
+      "titulo": "Lecturas — Santos Miguel, Gabriel y Rafael, arcángeles",
+      "descripcion": "Dan 7, 9-10.13-14 (o Ap 12, 7-12a) · Sal 137 · Jn 1, 47-51",
+      "color": "verde"
+    }
+  ],
+  "2027-09-30": [
+    {
+      "titulo": "San Jerónimo, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 26 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Neh 8, 1-4a.5-6.7b-12 · Sal 18 · Lc 10, 1-12",
+      "color": "verde"
+    }
+  ],
+  "2027-10-01": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 26 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Bar 1, 15-22 · Sal 78 · Lc 10, 13-16",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa Teresa del Niño Jesús, virgen y doctora de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-10-02": [
+    {
+      "titulo": "Santos Ángeles Custodios",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Sábado de la semana 26 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Bar 4, 5-12.27-29 · Sal 68 · Lc 10, 17-24",
+      "color": "verde"
+    }
+  ],
+  "2027-10-03": [
+    {
+      "titulo": "Lecturas — XXVII Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Gn 2, 18-24 · Sal 127 · Heb 2, 9-11 · Mc 10, 2-16",
+      "color": "verde"
+    }
+  ],
+  "2027-10-04": [
+    {
+      "titulo": "San Francisco de Asís",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Lunes de la semana 27 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jon 1, 1–2, 2.11 · Jon 2 · Lc 10, 25-37",
+      "color": "verde"
+    }
+  ],
+  "2027-10-05": [
+    {
+      "titulo": "Lecturas — Martes de la semana 27 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jon 3, 1-10 · Sal 129 · Lc 10, 38-42",
+      "color": "verde"
+    }
+  ],
+  "2027-10-06": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 27 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jon 4, 1-11 · Sal 85 · Lc 11, 1-4",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Bruno, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-10-07": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 27 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Mal 3, 13-20b · Sal 1 · Lc 11, 5-13",
+      "color": "verde"
+    },
+    {
+      "titulo": "Recurso CFYVN — Santo Rosario",
+      "descripcion": "Recurso de Camino de Fe y Vida Nueva para la memoria de Nuestra Señora del Rosario.<br><br>Enlace: <a href=\"https://www.caminodefeyvidanueva.com/inicio/devociones/santo-rosario\">https://www.caminodefeyvidanueva.com/inicio/devociones/santo-rosario</a>",
+      "color": "verde"
+    },
+    {
+      "titulo": "Bienaventurada Virgen María del Rosario",
+      "descripcion": "Memoria obligatoria. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    }
+  ],
+  "2027-10-08": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 27 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jl 1, 13-15; 2, 1-2 · Sal 9 · Lc 11, 15-26",
+      "color": "verde"
+    }
+  ],
+  "2027-10-09": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 27 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Jl 4, 12-21 · Sal 96 · Lc 11, 27-28",
+      "color": "verde"
+    }
+  ],
+  "2027-10-10": [
+    {
+      "titulo": "Santo Tomás de Villanueva, obispo",
+      "descripcion": "Memoria libre (España). Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — XXVIII Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Sab 7, 7-11 · Sal 89 · Heb 4, 12-13 · Mc 10, 17-30",
+      "color": "verde"
+    }
+  ],
+  "2027-10-11": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 28 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 1, 1-7 · Sal 97 · Lc 11, 29-32",
+      "color": "verde"
+    }
+  ],
+  "2027-10-12": [
+    {
+      "titulo": "Lecturas — Bienaventurada Virgen María del Pilar",
+      "descripcion": "1 Crón 15, 3-4.15-16; 16, 1-2 · Sal 26 · Hch 1, 12-14 · Lc 11, 27-28",
+      "color": "blanco"
+    }
+  ],
+  "2027-10-13": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 28 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 2, 1-11 · Sal 61 · Lc 11, 42-46",
+      "color": "verde"
+    }
+  ],
+  "2027-10-14": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 28 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 3, 21-30 · Sal 129 · Lc 11, 47-54",
+      "color": "verde"
+    }
+  ],
+  "2027-10-15": [
+    {
+      "titulo": "Santa Teresa de Jesús, virgen y doctora de la Iglesia",
+      "descripcion": "Fiesta (España). Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Santa Teresa de Jesús, virgen y doctora de la Iglesia",
+      "descripcion": "Eclo 15, 1-6 · Sal 88 · Mt 11, 25-30",
+      "color": "blanco"
+    }
+  ],
+  "2027-10-16": [
+    {
+      "titulo": "Santa Eduvigis, religiosa",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Sábado de la semana 28 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 4, 13.16-18 · Sal 104 · Lc 12, 8-12",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santa Margarita María de Alacoque, virgen",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-10-17": [
+    {
+      "titulo": "San Ignacio de Antioquía, obispo y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — XXIX Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Is 53, 10-11 · Sal 32 · Heb 4, 14-16 · Mc 10, 35-45",
+      "color": "verde"
+    },
+    {
+      "titulo": "DOMUND — Jornada Mundial por la Evangelización de los Pueblos",
+      "descripcion": "Penúltimo domingo de octubre.",
+      "color": "verde"
+    }
+  ],
+  "2027-10-18": [
+    {
+      "titulo": "Lecturas — San Lucas, evangelista",
+      "descripcion": "2 Tim 4, 10-17b · Sal 144 · Lc 10, 1-9",
+      "color": "rojo"
+    }
+  ],
+  "2027-10-19": [
+    {
+      "titulo": "Lecturas — Martes de la semana 29 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 5, 12.15b.17-19.20b-21 · Sal 39 · Lc 12, 35-38",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santos Juan de Brébeuf e Isaac Jogues, presbíteros, y compañeros, mártires",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-10-20": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 29 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 6, 12-18 · Sal 123 · Lc 12, 39-48",
+      "color": "verde"
+    }
+  ],
+  "2027-10-21": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 29 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 6, 19-23 · Sal 1 · Lc 12, 49-53",
+      "color": "verde"
+    }
+  ],
+  "2027-10-22": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 29 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 7, 18-25a · Sal 118 · Lc 12, 54-59",
+      "color": "verde"
+    }
+  ],
+  "2027-10-23": [
+    {
+      "titulo": "San Juan de Capistrano, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Sábado de la semana 29 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 8, 1-11 · Sal 23 · Lc 13, 1-9",
+      "color": "verde"
+    }
+  ],
+  "2027-10-24": [
+    {
+      "titulo": "San Antonio María Claret, obispo",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — XXX Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Jer 31, 7-9 · Sal 125 · Heb 5, 1-6 · Mc 10, 46-52",
+      "color": "verde"
+    }
+  ],
+  "2027-10-25": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 30 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 8, 12-17 · Sal 67 · Lc 13, 10-17",
+      "color": "verde"
+    }
+  ],
+  "2027-10-26": [
+    {
+      "titulo": "Lecturas — Martes de la semana 30 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 8, 18-25 · Sal 125 · Lc 13, 18-21",
+      "color": "verde"
+    }
+  ],
+  "2027-10-27": [
+    {
+      "titulo": "Lecturas — Miércoles de la semana 30 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 8, 26-30 · Sal 12 · Lc 13, 22-30",
+      "color": "verde"
+    }
+  ],
+  "2027-10-28": [
+    {
+      "titulo": "Lecturas — Santos Simón y Judas, apóstoles",
+      "descripcion": "Ef 2, 19-22 · Sal 18 · Lc 6, 12-19",
+      "color": "rojo"
+    }
+  ],
+  "2027-10-29": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 30 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 9, 1-5 · Sal 146 · Lc 14, 1-6",
+      "color": "verde"
+    }
+  ],
+  "2027-10-30": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 30 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 11, 1-2a.11-12.25-29 · Sal 93 · Lc 14, 1.7-11",
+      "color": "verde"
+    }
+  ],
+  "2027-10-31": [
+    {
+      "titulo": "Lecturas — XXXI Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Dt 6, 2-6 · Sal 17 · Heb 7, 23-28 · Mc 12, 28b-34",
+      "color": "verde"
+    }
+  ],
+  "2027-11-01": [
+    {
+      "titulo": "Lecturas — Todos los Santos",
+      "descripcion": "Ap 7, 2-4.9-14 · Sal 23 · 1 Jn 3, 1-3 · Mt 5, 1-12a",
+      "color": "verde"
+    }
+  ],
+  "2027-11-02": [
+    {
+      "titulo": "Lecturas — Conmemoración de todos los fieles difuntos",
+      "descripcion": "Lecturas de las misas de difuntos: se eligen dos lecturas y el Evangelio según el Leccionario",
+      "color": "verde"
+    }
+  ],
+  "2027-11-03": [
+    {
+      "titulo": "San Martín de Porres, religioso",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Miércoles de la semana 31 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 13, 8-10 · Sal 111 · Lc 14, 25-33",
+      "color": "verde"
+    }
+  ],
+  "2027-11-04": [
+    {
+      "titulo": "San Carlos Borromeo, obispo",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 31 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 14, 7-12 · Sal 26 · Lc 15, 1-10",
+      "color": "verde"
+    }
+  ],
+  "2027-11-05": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 31 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 15, 14-21 · Sal 97 · Lc 16, 1-8",
+      "color": "verde"
+    }
+  ],
+  "2027-11-06": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 31 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Rom 16, 3-9.16.22-27 · Sal 144 · Lc 16, 9-15",
+      "color": "verde"
+    },
+    {
+      "titulo": "Santos Pedro Poveda e Inocencio de la Inmaculada y compañeros, mártires",
+      "descripcion": "Memoria obligatoria (España). Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-11-07": [
+    {
+      "titulo": "Lecturas — XXXII Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "1 Re 17, 10-16 · Sal 145 · Heb 9, 24-28 · Mc 12, 38-44",
+      "color": "verde"
+    }
+  ],
+  "2027-11-08": [
+    {
+      "titulo": "Lecturas — Lunes de la semana 32 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Sab 1, 1-7 · Sal 138 · Lc 17, 1-6",
+      "color": "verde"
+    }
+  ],
+  "2027-11-09": [
+    {
+      "titulo": "Lecturas — Dedicación de la Basílica de Letrán",
+      "descripcion": "Ez 47, 1-2.8-9.12 (o 1 Cor 3, 9c-11.16-17) · Sal 45 · Jn 2, 13-22",
+      "color": "verde"
+    }
+  ],
+  "2027-11-10": [
+    {
+      "titulo": "San León Magno, papa y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Miércoles de la semana 32 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Sab 6, 1-11 · Sal 81 · Lc 17, 11-19",
+      "color": "verde"
+    }
+  ],
+  "2027-11-11": [
+    {
+      "titulo": "San Martín de Tours, obispo",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 32 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Sab 7, 22b–8, 1 · Sal 118 · Lc 17, 20-25",
+      "color": "verde"
+    }
+  ],
+  "2027-11-12": [
+    {
+      "titulo": "San Josafat, obispo y mártir",
+      "descripcion": "",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Viernes de la semana 32 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Sab 13, 1-9 · Sal 18 · Lc 17, 26-37",
+      "color": "verde"
+    }
+  ],
+  "2027-11-13": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 32 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Sab 18, 14-16; 19, 6-9 · Sal 104 · Lc 18, 1-8",
+      "color": "verde"
+    }
+  ],
+  "2027-11-14": [
+    {
+      "titulo": "Lecturas — XXXIII Domingo del Tiempo Ordinario — Ciclo B",
+      "descripcion": "Dan 12, 1-3 · Sal 15 · Heb 10, 11-14.18 · Mc 13, 24-32",
+      "color": "verde"
+    }
+  ],
+  "2027-11-15": [
+    {
+      "titulo": "San Alberto Magno, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Lunes de la semana 33 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Mac 1, 10-15.41-43.54-57.62-63 · Sal 118 · Lc 18, 35-43",
+      "color": "verde"
+    }
+  ],
+  "2027-11-16": [
+    {
+      "titulo": "Santa Gertrudis, virgen",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Santa Margarita de Escocia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Martes de la semana 33 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Mac 6, 18-31 · Sal 3 · Lc 19, 1-10",
+      "color": "verde"
+    }
+  ],
+  "2027-11-17": [
+    {
+      "titulo": "Santa Isabel de Hungría, religiosa",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Miércoles de la semana 33 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 2 Mac 7, 1.20-31 · Sal 16 · Lc 19, 11-28",
+      "color": "verde"
+    }
+  ],
+  "2027-11-18": [
+    {
+      "titulo": "Lecturas — Jueves de la semana 33 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Mac 2, 15-29 · Sal 49 · Lc 19, 41-44",
+      "color": "verde"
+    },
+    {
+      "titulo": "Recurso CFYVN — Novena de la Medalla Milagrosa",
+      "descripcion": "Acceso a los recursos editoriales de Camino de Fe y Vida Nueva al comenzar la novena.<br><br>Enlace: <a href=\"https://www.caminodefeyvidanueva.com/inicio/editorial\">https://www.caminodefeyvidanueva.com/inicio/editorial</a>",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 1",
+      "descripcion": "Día 1 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    }
+  ],
+  "2027-11-19": [
+    {
+      "titulo": "Lecturas — Viernes de la semana 33 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Mac 4, 36-37.52-59 · 1 Crón 29 · Lc 19, 45-48",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 2",
+      "descripcion": "Día 2 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    }
+  ],
+  "2027-11-20": [
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 3",
+      "descripcion": "Día 3 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Sábado de la semana 33 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · 1 Mac 6, 1-13 · Sal 9 · Lc 20, 27-40",
+      "color": "verde"
+    }
+  ],
+  "2027-11-21": [
+    {
+      "titulo": "Jornada Mundial de los Pobres",
+      "descripcion": "Domingo XXXIII del Tiempo Ordinario; calculado según la regla ordinaria.",
+      "color": "verde"
+    },
+    {
+      "titulo": "Lecturas — Nuestro Señor Jesucristo, Rey del Universo — Ciclo B",
+      "descripcion": "Dan 7, 13-14 · Sal 92 · Ap 1, 5-8 · Jn 18, 33b-37",
+      "color": "verde"
+    },
+    {
+      "titulo": "Nuestro Señor Jesucristo, Rey del Universo",
+      "descripcion": "Solemnidad. Celebración de fecha variable.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Presentación de la bienaventurada Virgen María",
+      "descripcion": "Memoria obligatoria. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 4",
+      "descripcion": "Día 4 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    }
+  ],
+  "2027-11-22": [
+    {
+      "titulo": "Santa Cecilia, virgen y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Lunes de la semana 34 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Dan 1, 1-6.8-20 · Dan 3 · Lc 21, 1-4",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 5",
+      "descripcion": "Día 5 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    }
+  ],
+  "2027-11-23": [
+    {
+      "titulo": "Lecturas — Martes de la semana 34 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Dan 2, 31-45 · Dan 3 · Lc 21, 5-11",
+      "color": "verde"
+    },
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 6",
+      "descripcion": "Día 6 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "San Columbano, abad",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-11-24": [
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 7",
+      "descripcion": "Día 7 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Santos Andrés Dung-Lac, presbítero, y compañeros, mártires",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Lecturas — Miércoles de la semana 34 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Dan 5, 1-6.13-14.16-17.23-28 · Dan 3 · Lc 21, 12-19",
+      "color": "verde"
+    }
+  ],
+  "2027-11-25": [
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 8",
+      "descripcion": "Día 8 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Jueves de la semana 34 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Dan 6, 12-28 · Dan 3 · Lc 21, 20-28",
+      "color": "verde"
+    }
+  ],
+  "2027-11-26": [
+    {
+      "titulo": "Novena a la Virgen de la Medalla Milagrosa — Día 9",
+      "descripcion": "Día 9 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "Lecturas — Viernes de la semana 34 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Dan 7, 2-14 · Dan 3 · Lc 21, 29-33",
+      "color": "verde"
+    }
+  ],
+  "2027-11-27": [
+    {
+      "titulo": "Lecturas — Sábado de la semana 34 del Tiempo Ordinario — Ferial I",
+      "descripcion": "Ferial I — Año impar · Dan 7, 15-27 · Dan 3 · Lc 21, 34-36",
+      "color": "verde"
+    },
+    {
+      "titulo": "Recurso CFYVN — Medalla Milagrosa",
+      "descripcion": "Recurso sobre la Virgen de la Medalla Milagrosa.<br><br>Enlace: <a href=\"https://www.caminodefeyvidanueva.com/inicio/devociones/medalla-milagrosa\">https://www.caminodefeyvidanueva.com/inicio/devociones/medalla-milagrosa</a>",
+      "color": "verde"
+    }
+  ],
+  "2027-11-28": [
+    {
+      "titulo": "Inicio del Tiempo de Adviento",
+      "descripcion": "Comienza el Tiempo de Adviento. Color litúrgico: morado.",
+      "color": "morado"
+    },
+    {
+      "titulo": "I Domingo de Adviento",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "morado"
+    }
+  ],
+  "2027-12-03": [
+    {
+      "titulo": "San Francisco Javier, presbítero",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-12-04": [
+    {
+      "titulo": "San Juan Damasceno, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-12-05": [
+    {
+      "titulo": "II Domingo de Adviento",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "morado"
+    }
+  ],
+  "2027-12-06": [
+    {
+      "titulo": "San Nicolás, obispo",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-12-07": [
+    {
+      "titulo": "San Ambrosio, obispo y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-12-11": [
+    {
+      "titulo": "San Dámaso I, papa",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-12-12": [
+    {
+      "titulo": "Bienaventurada Virgen María de Guadalupe",
+      "descripcion": "Memoria libre. Celebración mariana de fecha fija.",
+      "color": "blanco"
+    },
+    {
+      "titulo": "III Domingo de Adviento (Gaudete)",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "rosa"
+    }
+  ],
+  "2027-12-13": [
+    {
+      "titulo": "Santa Lucía, virgen y mártir",
+      "descripcion": "Memoria obligatoria. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-12-14": [
+    {
+      "titulo": "San Juan de la Cruz, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria obligatoria. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-12-16": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 1",
+      "descripcion": "Día 1 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2027-12-17": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 2",
+      "descripcion": "Día 2 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2027-12-18": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 3",
+      "descripcion": "Día 3 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2027-12-19": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 4",
+      "descripcion": "Día 4 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "IV Domingo de Adviento",
+      "descripcion": "Domingo. Celebración de fecha variable.",
+      "color": "morado"
+    }
+  ],
+  "2027-12-20": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 5",
+      "descripcion": "Día 5 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2027-12-21": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 6",
+      "descripcion": "Día 6 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Pedro Canisio, presbítero y doctor de la Iglesia",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-12-22": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 7",
+      "descripcion": "Día 7 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2027-12-23": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 8",
+      "descripcion": "Día 8 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Juan de Kety, presbítero",
+      "descripcion": "Memoria libre. Santo/a de fecha fija. No mártir.",
+      "color": "blanco"
+    }
+  ],
+  "2027-12-24": [
+    {
+      "titulo": "Novena del Niño Jesús — Día 9",
+      "descripcion": "Día 9 de 9. Devoción de Camino de Fe y Vida Nueva.",
+      "color": "verde"
+    }
+  ],
+  "2027-12-25": [
+    {
+      "titulo": "Inicio del Tiempo de Navidad",
+      "descripcion": "Comienza el Tiempo de Navidad. Color litúrgico habitual: blanco.",
+      "color": "blanco"
+    }
+  ],
+  "2027-12-26": [
+    {
+      "titulo": "Jornada de la Sagrada Familia",
+      "descripcion": "Jornada pontificia y de la Conferencia Episcopal Española.",
+      "color": "verde"
+    },
+    {
+      "titulo": "San Esteban, protomártir",
+      "descripcion": "Fiesta. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    },
+    {
+      "titulo": "Sagrada Familia de Jesús, María y José",
+      "descripcion": "Fiesta. Celebración de fecha variable.",
+      "color": "blanco"
+    }
+  ],
+  "2027-12-28": [
+    {
+      "titulo": "Santos Inocentes, mártires",
+      "descripcion": "Fiesta. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ],
+  "2027-12-29": [
+    {
+      "titulo": "Santo Tomás Becket, obispo y mártir",
+      "descripcion": "Memoria libre. Mártir(es). Celebración de fecha fija.",
+      "color": "rojo"
+    }
+  ]
+}
