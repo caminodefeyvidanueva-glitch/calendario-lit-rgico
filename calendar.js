@@ -7,6 +7,24 @@ const months = [
 ];
 
 let currentDate = new Date(2026, 8, 1);
+let eventos = {};
+
+fetch("eventos.json")
+  .then(response => response.json())
+  .then(data => {
+    eventos = data;
+    renderCalendar();
+  })
+  .catch(error => {
+    console.error("Error cargando eventos:", error);
+    renderCalendar();
+  });
+
+function formatDateKey(year, month, day) {
+  const m = String(month + 1).padStart(2, "0");
+  const d = String(day).padStart(2, "0");
+  return `${year}-${m}-${d}`;
+}
 
 function renderCalendar() {
   calendar.innerHTML = "";
@@ -38,6 +56,27 @@ function renderCalendar() {
 
     dayBox.appendChild(number);
 
+    const key = formatDateKey(year, month, day);
+    const dayEvents = eventos[key] || [];
+
+    dayEvents.forEach(evento => {
+      const eventDiv = document.createElement("div");
+      eventDiv.className = `event ${evento.color}`;
+
+      const titulo = document.createElement("strong");
+      titulo.textContent = evento.titulo;
+
+      eventDiv.appendChild(titulo);
+
+      if (evento.descripcion) {
+        const descripcion = document.createElement("div");
+        descripcion.textContent = evento.descripcion;
+        eventDiv.appendChild(descripcion);
+      }
+
+      dayBox.appendChild(eventDiv);
+    });
+
     calendar.appendChild(dayBox);
   }
 }
@@ -51,5 +90,3 @@ document.getElementById("nextMonth").addEventListener("click", () => {
   currentDate.setMonth(currentDate.getMonth() + 1);
   renderCalendar();
 });
-
-renderCalendar();
